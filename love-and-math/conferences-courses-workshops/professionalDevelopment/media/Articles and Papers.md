@@ -1,0 +1,8 @@
+[An AI-Driven Optimism for Transforming Higher Education (It's Not What You Think)](https://er.educause.edu/articles/2025/2/an-ai-driven-optimism-for-transforming-higher-education-its-not-what-you-think)
+[Alternative Grading](https://qubeshub.org/community/groups/rios_lc_altgrading2_s2025)
+[Student-Led AI Ethics Research](https://www.youngdatascientists.org/blog/student-led-ai-ethics-research-shines)
+[Policy Agenda](https://www.justequations.org/blog/math-that-meets-the-moment-a-new-policy-agenda-to-reenvision-the-role-of-math-in-ensuring-educational-equity)
+[Ethnomathematics: A Culturally Responsive Approach to Learning](https://maa.org/math-values/ethnomathematics-a-culturally-respo)
+[The Black Policy Playbook](https://www.cbcfinc.org/black-civic-engagement-hub/forward-together-the-black-policy-playbook-for-an-equitable-america/)
+[The Mathematical and Statistical Modeling Act](https://www.congress.gov/bill/119th-congress/house-bill/730)
+[Benjamin Banneker April 2026 Newsletter](https://benjaminbannekerassociation.org/so/96PqVOoUu?languageTag=en&cid=d96d18d3-f08b-47a4-9eeb-0254eadc7f01)

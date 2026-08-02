@@ -1,0 +1,7 @@
+Jack Love is a PhD mathematician and experienced educator offering in-person and virtual personalized math tutoring in San Francisco and across the country. Jack has been tutoring, teaching, and leading math outreach efforts for 20 years. Besides offering private in-home tutoring, he has worked in college tutoring centers, directed K-12 math camps and outreach programs, and been on faculty at several colleges and universities. Jack brings professional-level instruction to students at every level.
+
+Love and Math offers personalized mathematics tutoring and hands-on creative workshops for kids and adults. It was founded by Jack Love, who holds a PhD in mathematics and a Masters in Interaction Design, and has an extensive background in education and outreach. 
+
+was founded by Jack Love, a PhD in mathematics with an extensive background in education and outreach. We offer in-person and virtual math tutoring in San Francisco and across the country, as well as creative workshops for kids and adults that reveal the beauty of mathematics through hands-on activities and crafting.
+
+I created Love and Math to share the beauty of mathematics with people of all ages and backgrounds. I offer personalized math tutoring for elementary through college students, and creative workshops for curious learners of all ages. I have a PhD in mathematics, a Masters in Interaction Design, and an extensive background in education and outreach.

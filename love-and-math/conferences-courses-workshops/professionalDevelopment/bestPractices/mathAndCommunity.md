@@ -1,0 +1,2 @@
+From [[CIME 2026|Robert Q Berry III]]
+	[Those teachers](https://teachersinthemovement.com/) were in the community, they saw their students at the store, at church, on the weekend. Proximity and access to families and communities.

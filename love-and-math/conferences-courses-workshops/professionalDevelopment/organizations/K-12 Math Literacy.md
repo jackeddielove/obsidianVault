@@ -1,0 +1,12 @@
+[data science for everyone](https://www.datascience4everyone.org/)
+[young data scientists league](https://www.youngdatascientists.org/)
+[silicon valley mathematics initiative](https://svmimac.org/)
+[mindsetmath.org](https://www.mindsetmath.org/)
+[stemulate solutions](https://www.stemulate.org/)
+[The Young Peoples Project](https://www.typp.org/)
+[the algebra project](https://algebra.org/)
+[The Baltimore Algebra Project](https://www.410ap.org/)
+[TODOS](https://www.todos-math.org/) (membership, 100/3yrs, https://www.todos-math.org/plans/join-todos/)
+[kapor foundation](https://www.kaporcenter.org/), [[Just Equations 2026|Alison Scott]]
+[collaborative for student success](https://forstudentsuccess.org/)
+[math makes movement](https://mathmakesmovement.com/)
