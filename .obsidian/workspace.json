@@ -11,12 +11,26 @@
             "id": "0f168a3f4567f202",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "Excel 2026-08-02 10.42.09.univer.md"
+                "file": "mailing-list.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Excel 2026-08-02 10.42.09.univer"
+              "title": "mailing-list"
+            }
+          },
+          {
+            "id": "806522e4ae749136",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "love-and-math/tutoring/fall-schedule.md"
+              },
+              "icon": "lucide-file",
+              "title": "fall-schedule"
             }
           },
           {
@@ -47,7 +61,8 @@
               "title": "signups"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel 2026-08-02 10.42.09.univer.md",
+                "file": "love-and-math/tutoring/fall-schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel 2026-08-02 10.42.09.univer.md",
+                "file": "love-and-math/tutoring/fall-schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -187,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel 2026-08-02 10.42.09.univer.md",
+                "file": "love-and-math/tutoring/fall-schedule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -216,13 +231,14 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "0f168a3f4567f202",
+  "active": "806522e4ae749136",
   "lastOpenFiles": [
+    "mailing-list.md",
+    "love-and-math/workshops/constructingInfinity/signups.md",
     "love-and-math/tutoring/students.md",
-    "Excel 2026-08-02 10.42.09.univer.md",
+    "love-and-math/tutoring/fall-schedule.md",
     "april 2026 audit.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
-    "love-and-math/workshops/constructingInfinity/signups.md",
     "love-and-math/workshops/constructingInfinity/confirmation email.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-announcemet.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-outreach-email.md",
