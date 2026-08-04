@@ -11,15 +11,42 @@
             "id": "7bcc5fbf39acbc09",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "pdf",
               "state": {
-                "file": "april 2026 audit.md"
+                "file": "love-and-math/tutoring/student-resources/jackson-summer-hw-2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "jackson-summer-hw-2026"
+            }
+          },
+          {
+            "id": "824ac0f9c9c246d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jackson-aug-4.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "april 2026 audit"
+              "title": "jackson-aug-4"
+            }
+          },
+          {
+            "id": "3ace9d9c35a8e018",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "love-and-math/tutoring/fall-schedule.md"
+              },
+              "icon": "lucide-file",
+              "title": "fall-schedule"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "april 2026 audit.md",
+                "file": "jackson-aug-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "april 2026 audit.md",
+                "file": "jackson-aug-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "april 2026 audit.md",
+                "file": "jackson-aug-4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,12 +215,15 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "7bcc5fbf39acbc09",
+  "active": "824ac0f9c9c246d1",
   "lastOpenFiles": [
+    "love-and-math/tutoring/student-resources/jackson-summer-hw-2026.pdf",
+    "jackson-aug-4.md",
+    "love-and-math/tutoring/fall-schedule.md",
+    "april 2026 audit.md",
     "love-and-math/legal-financial/2026-income.md",
     "love-and-math/workshops/constructingInfinity/signups.md",
     "love-and-math/tutoring/students.md",
-    "love-and-math/tutoring/fall-schedule.md",
     "p5.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
     "love-and-math/workshops/constructingInfinity/confirmation email.md",
@@ -204,7 +234,6 @@
     "love-and-math/legal-financial/business-receipts/ARCH Art Supplies (1).pdf",
     "love-and-math/legal-financial/business-receipts/Best Buy #187.pdf",
     "love-and-math/legal-financial/business-receipts/ARCH Art Supplies (2).pdf",
-    "april 2026 audit.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-announcemet.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-outreach-email.md",
     "love-and-math/conferences-courses-workshops/professionalDevelopment/media/Films.md",
