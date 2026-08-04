@@ -11,10 +11,12 @@
             "id": "7bcc5fbf39acbc09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excel-pro-view",
+              "state": {
+                "file": "april 2026 audit.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "april 2026 audit"
             }
           }
         ]
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "april 2026 audit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "april 2026 audit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "april 2026 audit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
