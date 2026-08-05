@@ -1,4 +1,5 @@
-subject: Constructing Infinity confirmation and details
+subject:
+Constructing Infinity confirmation and details
 
 Thank you for registering for *Constructing Infinity*!
 

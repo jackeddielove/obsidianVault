@@ -18,8 +18,37 @@
               "icon": "lucide-file",
               "title": "fall-schedule"
             }
+          },
+          {
+            "id": "e4cd776b9b5173fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "love-and-math/workshops/constructingInfinity/constructing-infinity-confirmation-email.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "constructing-infinity-confirmation-email"
+            }
+          },
+          {
+            "id": "c6c5f503f70980ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "constructing-infinity-reminder-email"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "love-and-math/tutoring/fall-schedule.md",
+                "file": "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "love-and-math/tutoring/fall-schedule.md",
+                "file": "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "love-and-math/tutoring/fall-schedule.md",
+                "file": "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,10 +217,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "3ace9d9c35a8e018",
+  "active": "c6c5f503f70980ab",
   "lastOpenFiles": [
-    "love-and-math/tutoring/student-resources/jackson-teacher-notes.md",
+    "love-and-math/workshops/constructingInfinity/constructing-infinity-confirmation-email.md",
     "love-and-math/tutoring/fall-schedule.md",
+    "love-and-math/tutoring/student-resources/jackson-teacher-notes.md",
     "jackson-aug-4.md",
     "love-and-math/tutoring/student-resources/jackson-summer-hw-2026.pdf",
     "april 2026 audit.md",
@@ -200,7 +230,6 @@
     "love-and-math/tutoring/students.md",
     "p5.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
-    "love-and-math/workshops/constructingInfinity/confirmation email.md",
     "mailing-list.md",
     "love-and-math/legal-financial/business-receipts/paper-and-craft-3.pdf",
     "love-and-math/legal-financial/business-receipts/paper-and-craft-2.pdf",
