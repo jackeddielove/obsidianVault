@@ -13,6 +13,18 @@
             "state": {
               "type": "excel-pro-view",
               "state": {
+                "file": "aug-dec-2026-records.md"
+              },
+              "icon": "lucide-file",
+              "title": "aug-dec-2026-records"
+            }
+          },
+          {
+            "id": "f2510b3e0c980162",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
                 "file": "love-and-math/legal-financial/jan-jul-2026-records.md"
               },
               "icon": "lucide-file",
@@ -81,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "af53f55ba7021ae7",
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "love-and-math/legal-financial/jan-jul-2026-records.md",
+                "file": "aug-dec-2026-records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "love-and-math/legal-financial/jan-jul-2026-records.md",
+                "file": "aug-dec-2026-records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "love-and-math/legal-financial/jan-jul-2026-records.md",
+                "file": "aug-dec-2026-records.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,8 +201,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "8bfcce0caa20fcc7",
   "lastOpenFiles": [
+    "love-and-math/legal-financial/jan-jul-2026-records.md",
+    "aug-dec-2026-records.md",
     "love-and-math/legal-financial/registration/sf-registration-2.pdf",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-confirmation-email.md",
@@ -202,7 +217,6 @@
     "jackson-aug-4.md",
     "love-and-math/tutoring/student-resources/jackson-summer-hw-2026.pdf",
     "april 2026 audit.md",
-    "love-and-math/legal-financial/jan-jul-2026-records.md",
     "love-and-math/workshops/constructingInfinity/signups.md",
     "love-and-math/tutoring/students.md",
     "p5.md",
