@@ -1,3 +1,0 @@
-fractions
-negative numbers
-distributive property

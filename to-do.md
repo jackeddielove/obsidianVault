@@ -21,7 +21,7 @@ reviews
 - [ ] business cards
 - [ ] put [felicia](https://www.feliciaforte.com/) on my mailing list. create a mailing list
 - [ ] waiting to hear from bob (returns june 22) about:
-	- [ ] [register](https://sftreasurer.org/business/register-business) love and math llc with san francisco [[registration#Registering in San Francisco|(extra help)]]
+	- [ ] [register](https://sftreasurer.org/business/register-business) love and math llc with san francisco [[registration-notes#Registering in San Francisco|(extra help)]]
 	- [ ] open business bank account, business venmo
 	- [ ] register LLC federally?
 	- [ ] get LLC tax ID numbers (federal and state?)

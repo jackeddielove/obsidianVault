@@ -20,7 +20,7 @@ Starting a business involves planning, making key financial decisions, and compl
 6. **Choose your business name** (June 5)
 	It’s not easy to pick the perfect name. You’ll want one that reflects your brand and captures your spirit. You’ll also want to make sure your business name isn’t already being used by someone else.
 	[Learn more about choosing a business name](https://www.sba.gov/business-guide/launch-your-business/choose-your-business-name)
-7. **[[registration|Register your business]]** (June 12)
+7. **[[registration-notes|Register your business]]** (June 12)
 	Once you’ve picked the perfect business name, it’s time to make it legal and protect your brand. If you’re doing business under a name different than your own, you’ll need to register with the federal government, and maybe your state government, too.
 	[Learn more about registering your business](https://www.sba.gov/business-guide/launch-your-business/register-your-business)
 8. **Get federal and state tax IDs** (June 19)

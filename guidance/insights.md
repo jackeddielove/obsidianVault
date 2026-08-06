@@ -1,3 +1,13 @@
+Patience and compassion carry us through the times when it seems like nothing is working, until we get to the times when we see how it's all working. And every time we arrive there, it strengthens our faith that we will arrive there again.
+
+Let us not rush into the day.
+The day will come to us, if we let it.
+Let us stay here, with God, and be patient.
+
+If I am not the center of the universe, then I am not looking out at the world. I am the world, looking around at itself.
+
+It's important to say "I am thy servant" once you realize how divine you are.
+
 Sometimes I think that I'm so broken and everyone else is so well that I don't have any responsibility.
 
 The gift that AI brings us is the revealing of human being. As AI does more and more of what humans do, what remains for us to do is that which AI cannot. What it means to be human might well be defined in the negative, as that which AI is not. In the Upanishads, Brahman—that from which all existence proceeds and to which everything returns—is defined this way, as "Neti neti": not this, not that. What AI is here to show us is our own cosmic nature, that we are indeed that from which all existence proceeds and to which everything returns.
