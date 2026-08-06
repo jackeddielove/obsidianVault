@@ -1,3 +1,5 @@
+"I want to drop the rock so I feel better" is a trap. The desire to feel better is the rock.
+
 Patience and compassion carry us through the times when it seems like nothing is working, until we get to the times when we see how it's all working. And every time we arrive there, it strengthens our faith that we will arrive there again.
 
 Let us not rush into the day.
