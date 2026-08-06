@@ -61,8 +61,7 @@
               "title": "sasha-foundational-skills"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sasha-foundational-skills.md",
+                "file": "love-and-math/tutoring/fall-schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sasha-foundational-skills.md",
+                "file": "love-and-math/tutoring/fall-schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sasha-foundational-skills.md",
+                "file": "love-and-math/tutoring/fall-schedule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -231,10 +230,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "95d6007ec85c6707",
+  "active": "3ace9d9c35a8e018",
   "lastOpenFiles": [
-    "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
     "sasha-foundational-skills.md",
+    "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-confirmation-email.md",
     "love-and-math/tutoring/fall-schedule.md",
     "love-and-math/tutoring/student-resources/jackson-teacher-notes.md",
