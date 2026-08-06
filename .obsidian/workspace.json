@@ -57,7 +57,8 @@
               "title": "jan-jul-2026-records"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aug-dec-2026-records.md",
+                "file": "love-and-math/tutoring/fall-schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aug-dec-2026-records.md",
+                "file": "love-and-math/tutoring/fall-schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -197,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aug-dec-2026-records.md",
+                "file": "love-and-math/tutoring/fall-schedule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,10 +227,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "8bfcce0caa20fcc7",
+  "active": "26b537fa82ecfa7d",
   "lastOpenFiles": [
-    "love-and-math/tutoring/students.md",
     "aug-dec-2026-records.md",
+    "love-and-math/tutoring/students.md",
     "love-and-math/tutoring/fall-schedule.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "love-and-math/legal-financial/registration/sf-registration-2.pdf",
