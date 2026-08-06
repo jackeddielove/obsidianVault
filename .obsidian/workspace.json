@@ -57,8 +57,7 @@
               "title": "jan-jul-2026-records"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "love-and-math/tutoring/fall-schedule.md",
+                "file": "aug-dec-2026-records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "love-and-math/tutoring/fall-schedule.md",
+                "file": "aug-dec-2026-records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "love-and-math/tutoring/fall-schedule.md",
+                "file": "aug-dec-2026-records.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,11 +226,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "26b537fa82ecfa7d",
+  "active": "8bfcce0caa20fcc7",
   "lastOpenFiles": [
+    "love-and-math/tutoring/fall-schedule.md",
     "aug-dec-2026-records.md",
     "love-and-math/tutoring/students.md",
-    "love-and-math/tutoring/fall-schedule.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "love-and-math/legal-financial/registration/sf-registration-2.pdf",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
