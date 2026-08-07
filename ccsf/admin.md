@@ -2,7 +2,7 @@ W99084762
 00_usual_00
 [jlove@ccsf.edu](https://outlook.office.com/mail/)
 [sharepoint](https://citycollegesf.sharepoint.com/sites/ITSServices/SitePages/Onboarding-Resources.aspx?OR=Teams-HL&CT=1675286230439)
-[resources-portal](https://ramid.ccsf.edu/sso/default.aspx)
+[resources-portal](https://ramid.ccsf.edu/sso/default.aspx) (Access Canvas here)
 [ram-portal](https://experience.elluciancloud.com/ccosf/)
 [faculty-dashboard](https://ssb1.ccsf.edu:8100/FacultySelfService/ssb/facultyCommonDashboard)
 [faculty workload guide](https://citycollegesf.sharepoint.com/sites/OfficeofInstruction/SitePages/Faculty-Workload-Guide.aspx?csf=1&web=1&e=fgSikG&CT=1781129190667&OR=OWA-NT-Mail&CID=8ae2aed5-cd68-62fa-586d-f7a2d99b6e18&SI=NonSentItems&cidOR=Client)
