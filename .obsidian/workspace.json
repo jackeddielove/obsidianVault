@@ -11,12 +11,12 @@
             "id": "8bfcce0caa20fcc7",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "pdf",
               "state": {
-                "file": "aug-dec-2026-records.md"
+                "file": "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf"
               },
-              "icon": "lucide-file",
-              "title": "aug-dec-2026-records"
+              "icon": "lucide-file-text",
+              "title": "whiteboard-markers"
             }
           },
           {
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aug-dec-2026-records.md",
+                "file": "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aug-dec-2026-records.md",
+                "file": "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aug-dec-2026-records.md",
+                "file": "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,10 +226,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "8bfcce0caa20fcc7",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
-    "love-and-math/legal-financial/jan-jul-2026-records.md",
     "aug-dec-2026-records.md",
+    "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf",
+    "love-and-math/legal-financial/jan-jul-2026-records.md",
     "love-and-math/tutoring/fall-schedule.md",
     "love-and-math/tutoring/students.md",
     "love-and-math/legal-financial/registration/sf-registration-2.pdf",
@@ -255,7 +256,6 @@
     "love-and-math/workshops/constructingInfinity/constructing-infinity-announcemet.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-outreach-email.md",
     "love-and-math/conferences-courses-workshops/professionalDevelopment/media/Films.md",
-    "guidance/magic/2026numerology.pdf",
     "token.md",
     "cv.md"
   ]
