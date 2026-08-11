@@ -11,12 +11,12 @@
             "id": "0ca0fd63b1b2a451",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "pdf",
               "state": {
-                "file": "love-and-math/tutoring/fall-schedule.md"
+                "file": "love-and-math/legal-financial/business-receipts/stationary-2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "fall-schedule"
+              "icon": "lucide-file-text",
+              "title": "stationary-2"
             }
           }
         ]
@@ -188,13 +188,15 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "0ca0fd63b1b2a451",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
+    "love-and-math/legal-financial/business-receipts/stationary.png",
+    "love-and-math/legal-financial/business-receipts/stationary-2.pdf",
+    "love-and-math/tutoring/fall-schedule.md",
     "ccsf/admin.md",
     "p5.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/tutoring/summer plans.md",
-    "love-and-math/tutoring/fall-schedule.md",
     "ccsf/precalc/planning-info.md",
     "ccsf/precalc/workbook.pdf",
     "ccsf/precalc/syllabus.md",
@@ -219,7 +221,6 @@
     "love-and-math/legal-financial/business-receipts/paper-and-craft-3.pdf",
     "love-and-math/legal-financial/business-receipts/paper-and-craft-2.pdf",
     "love-and-math/legal-financial/business-receipts/printer-cartridge-4.pdf",
-    "love-and-math/legal-financial/business-receipts/ARCH Art Supplies (1).pdf",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-announcemet.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-outreach-email.md",
     "love-and-math/conferences-courses-workshops/professionalDevelopment/media/Films.md",
