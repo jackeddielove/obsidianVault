@@ -11,14 +11,12 @@
             "id": "0ca0fd63b1b2a451",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-pro-view",
               "state": {
-                "file": "ccsf/admin.md",
-                "mode": "source",
-                "source": false
+                "file": "love-and-math/tutoring/fall-schedule.md"
               },
               "icon": "lucide-file",
-              "title": "admin"
+              "title": "fall-schedule"
             }
           }
         ]
@@ -192,11 +190,11 @@
   },
   "active": "0ca0fd63b1b2a451",
   "lastOpenFiles": [
+    "ccsf/admin.md",
     "p5.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/tutoring/summer plans.md",
     "love-and-math/tutoring/fall-schedule.md",
-    "ccsf/admin.md",
     "ccsf/precalc/planning-info.md",
     "ccsf/precalc/workbook.pdf",
     "ccsf/precalc/syllabus.md",
