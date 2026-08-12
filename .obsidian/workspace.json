@@ -11,12 +11,12 @@
             "id": "0ca0fd63b1b2a451",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excel-pro-view",
               "state": {
-                "file": "love-and-math/legal-financial/business-receipts/stationary-2.pdf"
+                "file": "love-and-math/tutoring/fall-schedule.md"
               },
-              "icon": "lucide-file-text",
-              "title": "stationary-2"
+              "icon": "lucide-file",
+              "title": "fall-schedule"
             }
           }
         ]
@@ -188,11 +188,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "0ca0fd63b1b2a451",
   "lastOpenFiles": [
+    "love-and-math/legal-financial/business-receipts/stationary-2.pdf",
     "love-and-math/legal-financial/business-receipts/office-supplies.pdf",
     "love-and-math/legal-financial/business-receipts/stationary.png",
-    "love-and-math/legal-financial/business-receipts/stationary-2.pdf",
     "love-and-math/tutoring/fall-schedule.md",
     "ccsf/admin.md",
     "p5.md",
