@@ -32,23 +32,9 @@
               "icon": "lucide-file",
               "title": "admin"
             }
-          },
-          {
-            "id": "caeabe4f4d6ea232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +203,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "caeabe4f4d6ea232",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
     "ccsf/admin.md",
     "Untitled.md",
