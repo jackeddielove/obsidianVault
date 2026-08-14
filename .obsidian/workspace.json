@@ -23,12 +23,14 @@
             "id": "9afa2d0c9786347c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "love-and-math/legal-financial/business-receipts/office-supplies-2.pdf"
+                "file": "love-and-math/workshops/constructingInfinity/signups.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "office-supplies-2"
+              "icon": "lucide-file",
+              "title": "signups"
             }
           }
         ],
@@ -201,10 +203,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "9afa2d0c9786347c",
   "lastOpenFiles": [
-    "Untitled.md",
+    "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
     "love-and-math/legal-financial/business-receipts/office-supplies-2.pdf",
+    "Untitled.md",
     "ccsf/admin.md",
     "love-and-math/tutoring/fall-schedule.md",
     "love-and-math/legal-financial/business-receipts/rentals-part2.pdf",
@@ -225,7 +228,6 @@
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf",
     "love-and-math/legal-financial/registration/sf-registration-2.pdf",
-    "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
     "guidance/insights.md",
     "love-and-math/legal-financial/registration/registration-notes.md",
     "love-and-math/legal-financial/registration/sf-registration-1.pdf",
