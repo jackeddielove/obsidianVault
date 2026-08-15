@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tabs.md",
+                "file": "love-and-math/workshops/constructingInfinity/RP2-links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tabs"
+              "title": "RP2-links"
             }
           }
         ],
@@ -207,8 +207,8 @@
   },
   "active": "2ef49bc4213b9518",
   "lastOpenFiles": [
-    "p5.md",
     "tabs.md",
+    "p5.md",
     "april 2026 audit.md",
     "setup instructions.md",
     "love-and-math/workshops/constructingInfinity/signups.md",
