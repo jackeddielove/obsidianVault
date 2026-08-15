@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "af39bc8bf8e70f03",
+        "id": "65a65a6b17aeabf3",
         "type": "tabs",
         "children": [
           {
-            "id": "0ca0fd63b1b2a451",
+            "id": "8350cda2883e6afa",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "love-and-math/tutoring/fall-schedule.md"
+                "file": "p5.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "fall-schedule"
-            }
-          },
-          {
-            "id": "9afa2d0c9786347c",
-            "type": "leaf",
-            "state": {
-              "type": "excel-pro-view",
-              "state": {
-                "file": "april 2026 audit.md"
-              },
-              "icon": "lucide-file",
-              "title": "april 2026 audit"
+              "title": "p5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +190,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "8350cda2883e6afa",
   "lastOpenFiles": [
     "april 2026 audit.md",
     "setup instructions.md",
