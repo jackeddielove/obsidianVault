@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "RP2-links"
             }
+          },
+          {
+            "id": "4f515098b3e6d85f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/tutoring/student-resources/jackson-summer-hw-2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "jackson-summer-hw-2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,8 +217,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "2ef49bc4213b9518",
+  "active": "4f515098b3e6d85f",
   "lastOpenFiles": [
+    "love-and-math/workshops/constructingInfinity/RP2-links.md",
     "tabs.md",
     "p5.md",
     "april 2026 audit.md",
@@ -242,7 +255,6 @@
     "love-and-math/tutoring/student-resources/jackson-summer-hw-2026.pdf",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-announcemet.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-outreach-email.md",
-    "love-and-math/conferences-courses-workshops/professionalDevelopment/media/Films.md",
-    "token.md"
+    "love-and-math/conferences-courses-workshops/professionalDevelopment/media/Films.md"
   ]
 }
