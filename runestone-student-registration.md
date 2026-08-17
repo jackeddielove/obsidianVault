@@ -17,6 +17,8 @@ test-student
 
 ### Enter course name
 Math90-CCSF-Fall-2026
+or select that course
+scroll all the way to the bottom and click Enroll
 
 
 
