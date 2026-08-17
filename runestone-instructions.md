@@ -32,14 +32,6 @@ https://runestone.academy/runestone/default/user/register
 click "register and get started"
 under "student in a class", click "Register with your course code"
 
-First name Test, Last name Student
-username test-student
-email jackeddielove@gmail.com
-pw 0__Th3ory__0
-
-Test student
-drjack
-0@Th3ory@0
 
 **Subject:** Action Required: Register for our Runestone Course
 
