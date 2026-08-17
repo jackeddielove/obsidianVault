@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "runestone-instructions"
             }
+          },
+          {
+            "id": "2266674b7ed6e21d",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "love-and-math/tutoring/fall-schedule.md"
+              },
+              "icon": "lucide-file",
+              "title": "fall-schedule"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,10 +217,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "577298ec3d0b39fc",
+  "active": "2266674b7ed6e21d",
   "lastOpenFiles": [
-    "website-about-text.md",
     "runestone-instructions.md",
+    "website-about-text.md",
     "love-and-math/tutoring/student-resources/jackson-summer-hw-2026.pdf",
     "love-and-math/workshops/constructingInfinity/RP2-links.md",
     "tabs.md",
