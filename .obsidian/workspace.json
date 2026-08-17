@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "runestone-student-registration.md",
+                "file": "runestone-instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "runestone-student-registration"
+              "title": "runestone-instructions"
             }
           }
         ],
@@ -208,7 +208,7 @@
   "active": "577298ec3d0b39fc",
   "lastOpenFiles": [
     "website-about-text.md",
-    "runestone-student-registration.md",
+    "runestone-instructions.md",
     "love-and-math/tutoring/student-resources/jackson-summer-hw-2026.pdf",
     "love-and-math/workshops/constructingInfinity/RP2-links.md",
     "tabs.md",

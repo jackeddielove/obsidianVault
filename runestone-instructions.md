@@ -1,3 +1,6 @@
+
+# registration
+
 Provide your students with your exact **Course Name** (Math90-CCSF-Fall-2026) and have them follow these steps: [[1](https://www.csawesome.org/curriculum-resources/runestone-e-book/creating-a-custom-course), [2](https://open.baypath.edu/courseresources/chapter/runestone-registration/), [3](https://runestone.academy/ns/books/published/instructorguide/custom-courses_how-to-create-a-custom-course.html)]
 
 - **New Users:** Go to the [Runestone SignUp Page](https://runestone.academy/runestone/default/user/register), fill out the form, and input your exact course identifier into the **Course Name** field.
@@ -55,3 +58,11 @@ Please complete this registration by **[INSERT DUE DATE]**. Let me know if you r
 
 Best regards,  
 **[YOUR NAME]**
+
+# navigating the site
+
+Create a simple navigation pathway for them
+# submitting work
+
+make sure you click "check work" on each part so it registers it in the gradebook
+when blue !'s appear next to each part of an exercise, only some of those parts may be wrong
