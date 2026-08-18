@@ -61,7 +61,8 @@
               "title": "admin"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,10 +231,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "577298ec3d0b39fc",
+  "active": "b03af9cf28230360",
   "lastOpenFiles": [
-    "ccsf/precalc/syllabus.md",
     "runestone-instructions.md",
+    "ccsf/precalc/syllabus.md",
     "ccsf/admin.md",
     "love-and-math/tutoring/fall-schedule.md",
     "website-about-text.md",
