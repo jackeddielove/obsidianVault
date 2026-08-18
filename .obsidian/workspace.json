@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "admin"
             }
+          },
+          {
+            "id": "f613580b8612c08d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ccsf/precalc/waitlist.png"
+              },
+              "icon": "lucide-image",
+              "title": "waitlist"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -231,11 +243,12 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "b03af9cf28230360",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
+    "ccsf/admin.md",
+    "ccsf/precalc/waitlist.png",
     "runestone-instructions.md",
     "ccsf/precalc/syllabus.md",
-    "ccsf/admin.md",
     "love-and-math/tutoring/fall-schedule.md",
     "website-about-text.md",
     "love-and-math/tutoring/student-resources/jackson-summer-hw-2026.pdf",
@@ -268,7 +281,6 @@
     "love-and-math/legal-financial/registration/sf-registration-1.pdf",
     "love-and-math/tutoring/student-resources/sacha-foundational-skills.md",
     "love-and-math/tutoring/student-resources/jackson-teacher-notes.md",
-    "jackson-aug-4.md",
-    "love-and-math/workshops/constructingInfinity/constructing-infinity-announcemet.md"
+    "jackson-aug-4.md"
   ]
 }
