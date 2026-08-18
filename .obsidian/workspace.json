@@ -61,8 +61,7 @@
               "title": "admin"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,8 +230,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "3ff5cfe1ef008582",
+  "active": "577298ec3d0b39fc",
   "lastOpenFiles": [
+    "ccsf/precalc/syllabus.md",
     "runestone-instructions.md",
     "ccsf/admin.md",
     "love-and-math/tutoring/fall-schedule.md",
@@ -255,7 +255,6 @@
     "love-and-math/tutoring/summer plans.md",
     "ccsf/precalc/planning-info.md",
     "ccsf/precalc/workbook.pdf",
-    "ccsf/precalc/syllabus.md",
     "love-and-math/workshops/constructingInfinity/constructing-infinity-confirmation-email.md",
     "love-and-math/legal-financial/business-receipts/workshop-snacks.pdf",
     "love-and-math/mailing-list.md",
