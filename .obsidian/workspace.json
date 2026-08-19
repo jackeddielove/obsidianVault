@@ -59,8 +59,7 @@
               "title": "waitlist"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +228,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "f613580b8612c08d",
+  "active": "3ff5cfe1ef008582",
   "lastOpenFiles": [
     "ccsf/admin.md",
     "ccsf/precalc/waitlist.png",
