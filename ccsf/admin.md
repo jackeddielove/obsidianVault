@@ -11,13 +11,7 @@ W99084762
 
 
 runestone username: drjacklove
-trying new runestone account. username jlove, pw sP3njfUzTND6F5@
 
-LTI integration
-key:
-Math90-CCSF-Fall-2026-e623980c-92b2-11f1-94d6-0242c0a83002
-secret:
-886d5313-fa02-4f5b-9578-f99e5aca4ded
 
 instructional calendar
 	chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ccsf.edu/sites/default/files/2026/document/fall-2026-instructional-calendar.pdf
