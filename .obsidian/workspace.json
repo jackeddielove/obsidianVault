@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,11 +229,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "b03af9cf28230360",
+  "active": "f613580b8612c08d",
   "lastOpenFiles": [
-    "runestone-instructions.md",
     "ccsf/admin.md",
     "ccsf/precalc/waitlist.png",
+    "runestone-instructions.md",
     "ccsf/precalc/syllabus.md",
     "love-and-math/tutoring/fall-schedule.md",
     "website-about-text.md",
