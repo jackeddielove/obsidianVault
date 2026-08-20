@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ccsf/precalc/catalog-info.md",
+                "file": "ccsf/admin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "catalog-info"
+              "title": "admin"
             }
           },
           {
@@ -245,6 +245,7 @@
   },
   "active": "b03af9cf28230360",
   "lastOpenFiles": [
+    "ccsf/precalc/catalog-info.md",
     "ccsf/admin.md",
     "waitlist.md",
     "ccsf/precalc/waitlist.png",
