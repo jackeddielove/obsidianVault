@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,10 +243,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "96b16d0778205f7a",
+  "active": "b03af9cf28230360",
   "lastOpenFiles": [
-    "ccsf/precalc/waitlist.png",
     "waitlist.md",
+    "ccsf/precalc/waitlist.png",
     "ccsf/admin.md",
     "ccsf/precalc/syllabus.md",
     "runestone-instructions.md",
