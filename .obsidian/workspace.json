@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -257,10 +257,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "b03af9cf28230360",
   "lastOpenFiles": [
-    "ccsf/admin.md",
     "ccsf/precalc/add priorities.md",
+    "ccsf/admin.md",
     "ccsf/precalc/catalog-info.md",
     "waitlist.md",
     "ccsf/precalc/waitlist.png",
