@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ccsf/admin.md",
+                "file": "cv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "admin"
+              "title": "cv"
             }
           },
           {
@@ -206,12 +206,13 @@
   },
   "active": "d1c8589d1d67e1a6",
   "lastOpenFiles": [
+    "Excel 2026-08-21 13.44.15.univer.md",
+    "ccsf/admin.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/legal-financial/mileage.md",
     "waitlist.md",
     "ccsf/precalc/waitlist.png",
     "ccsf/precalc/add priorities.md",
-    "ccsf/admin.md",
     "ccsf/precalc/catalog-info.md",
     "ccsf/precalc/syllabus.md",
     "runestone-instructions.md",
@@ -242,7 +243,6 @@
     "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf",
     "love-and-math/legal-financial/registration/sf-registration-2.pdf",
     "guidance/insights.md",
-    "love-and-math/legal-financial/registration/registration-notes.md",
     "love-and-math/legal-financial/registration/sf-registration-1.pdf"
   ]
 }
