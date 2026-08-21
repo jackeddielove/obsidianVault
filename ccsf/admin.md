@@ -9,6 +9,10 @@ W99084762
 [canvas](https://ccsf.instructure.com/?login_success=1)
 [office of online learning](https://citycollegesf.sharepoint.com/sites/OnlineLearningandEducationalTechnologyOLET)
 
+hr: 415-752-7660
+payroll: 415-452-7740
+
+
 
 runestone username: drjacklove
 
