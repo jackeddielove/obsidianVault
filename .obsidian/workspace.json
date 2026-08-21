@@ -48,6 +48,20 @@
             }
           },
           {
+            "id": "72a1e03167cd2077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ccsf/precalc/add priorities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "add priorities"
+            }
+          },
+          {
             "id": "f613580b8612c08d",
             "type": "leaf",
             "state": {
@@ -74,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,10 +257,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "b03af9cf28230360",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
-    "ccsf/precalc/catalog-info.md",
     "ccsf/admin.md",
+    "ccsf/precalc/add priorities.md",
+    "ccsf/precalc/catalog-info.md",
     "waitlist.md",
     "ccsf/precalc/waitlist.png",
     "ccsf/precalc/syllabus.md",
@@ -281,7 +296,6 @@
     "guidance/insights.md",
     "love-and-math/legal-financial/registration/registration-notes.md",
     "love-and-math/legal-financial/registration/sf-registration-1.pdf",
-    "love-and-math/tutoring/student-resources/sacha-foundational-skills.md",
-    "love-and-math/tutoring/student-resources/jackson-teacher-notes.md"
+    "love-and-math/tutoring/student-resources/sacha-foundational-skills.md"
   ]
 }
