@@ -16,6 +16,8 @@ outlook pw:
 
 runestone username: drjacklove
 
+[using runestone google doc](https://docs.google.com/document/d/1a4DcgcPos_SoDJ523_OE3MdBsOu7_qGzgNwlFEUbvjs/edit?tab=t.0)
+
 
 instructional calendar
 	chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ccsf.edu/sites/default/files/2026/document/fall-2026-instructional-calendar.pdf
