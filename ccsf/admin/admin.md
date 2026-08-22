@@ -13,7 +13,8 @@ hr: 415-752-7660
 payroll: 415-452-7740
 
 outlook pw: 
-
+RamID:
+RamPW:
 runestone username: drjacklove
 
 [using runestone google doc](https://docs.google.com/document/d/1a4DcgcPos_SoDJ523_OE3MdBsOu7_qGzgNwlFEUbvjs/edit?tab=t.0)
@@ -29,22 +30,3 @@ important dates
 	https://www.ccsf.edu/admissions-recordsregistration/important-dates
 
 
-**Course overview and philosophy**
-**Course details**
-## Grading Policies and Evaluation Methods
-## Course Calendar
-## Course Materials
-
-Hi Michael, thank you for the message. I look forward to seeing you on Monday.
-
-Before then, please read over the syllabus on our Canvas page, especially the sections titled
-Course overview and philosophy
-Course details
-Grading Policies and Evaluation Methods
-Course Calendar
-
-Additionally, please read the announcements on our Canvas page and complete the assignment titled "To do before our next class".
-
-Let me know if you have any questions. See you Monday!
-
-Jack

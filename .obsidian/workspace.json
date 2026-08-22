@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0915c258a62bc008",
+        "id": "c31c441d8b438e7f",
         "type": "tabs",
         "children": [
           {
-            "id": "9d387ccf4c44ae71",
+            "id": "0d4814e309f7c510",
             "type": "leaf",
             "state": {
               "type": "excel-pro-view",
               "state": {
-                "file": "Excel 2026-08-22 14.13.59.univer.md"
+                "file": "ccsf/precalc/roster.md"
               },
               "icon": "lucide-file",
-              "title": "Excel 2026-08-22 14.13.59.univer"
+              "title": "roster"
             }
           }
         ]
@@ -188,45 +188,45 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "9d387ccf4c44ae71",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
-    "guidance/insights.md",
-    "Excel 2026-08-22 14.13.59.univer.md",
-    "ccsf/admin.md",
-    "expenses.md",
-    "love-and-math/legal-financial/mileage.md",
-    "Untitled.md",
-    "ccsf/precalc/waitlist.png",
-    "ccsf/precalc/add priorities.md",
-    "ccsf/precalc/roster.md",
-    "cv.md",
-    "love-and-math/legal-financial/aug-dec-2026-records.md",
-    "waitlist.md",
+    "ccsf/admin",
     "ccsf/precalc/catalog-info.md",
-    "ccsf/precalc/syllabus.md",
-    "runestone-instructions.md",
-    "love-and-math/tutoring/fall-schedule.md",
-    "website-about-text.md",
-    "love-and-math/tutoring/student-resources/jackson-summer-hw-2026.pdf",
-    "love-and-math/workshops/constructingInfinity/RP2-links.md",
-    "tabs.md",
-    "p5.md",
-    "setup instructions.md",
-    "love-and-math/workshops/constructingInfinity/signups.md",
-    "love-and-math/workshops/constructingInfinity/constructing-infinity-reminder-email.md",
-    "love-and-math/legal-financial/business-receipts/office-supplies-2.pdf",
-    "love-and-math/legal-financial/business-receipts/rentals-part2.pdf",
-    "love-and-math/tutoring/students.md",
-    "love-and-math/legal-financial/business-receipts/stationary-2.pdf",
-    "love-and-math/legal-financial/business-receipts/office-supplies.pdf",
-    "love-and-math/legal-financial/business-receipts/stationary.png",
-    "love-and-math/tutoring/summer plans.md",
+    "ccsf/admin/admin.md",
+    "math.md",
+    "ccsf/precalc/canvas-integration.md",
+    "ccsf/precalc/email to shawn about textbook.md",
+    "ccsf/admin/onboarding/faculty-handbook.pdf",
+    "ccsf/precalc/roster.md",
     "ccsf/precalc/planning-info.md",
+    "ccsf/precalc/syllabus.md",
+    "ccsf/precalc/waitlist.png",
     "ccsf/precalc/workbook.pdf",
-    "love-and-math/workshops/constructingInfinity/constructing-infinity-confirmation-email.md",
-    "love-and-math/legal-financial/business-receipts/workshop-snacks.pdf",
-    "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf",
-    "love-and-math/legal-financial/registration/sf-registration-2.pdf",
-    "love-and-math/legal-financial/registration/sf-registration-1.pdf"
+    "ccsf/precalc/add priorities.md",
+    "ccsf/questions-for-mary.md",
+    "ccsf/onboarding/parking-permit.md",
+    "ccsf/admin/onboarding/hiring-letter.pdf",
+    "ccsf/admin/onboarding/forms/calStrs2.pdf",
+    "ccsf/admin/onboarding/forms/calStrs1.pdf",
+    "ccsf/onboarding/forms/w4.pdf",
+    "ccsf/admin/onboarding/forms/tb.pdf",
+    "ccsf/admin/onboarding/forms/sickLeave.pdf",
+    "ccsf/onboarding/forms/onboardingNotes.md",
+    "ccsf/admin/onboarding/forms/i-9.pdf",
+    "ccsf/admin/onboarding/forms/hris.pdf",
+    "ccsf/onboarding/forms/assignment.md",
+    "website-about-text.md",
+    "cv.md",
+    "notes-to-kara.md",
+    "may-signatory-roundtable.md",
+    "obsidian examples.md",
+    "Untitled.md",
+    "waitlist.md",
+    "old-stuff.md",
+    "readme.md",
+    "love-and-math/mailing-list.md",
+    "eric-part-2.md",
+    "love-and-math/workshops/attendance-logs.md",
+    "love-and-math/legal-financial/business-receipts/stationary.png"
   ]
 }
