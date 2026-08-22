@@ -27,3 +27,24 @@ final exam schedule
 	chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ccsf.edu/sites/default/files/2026/document/final-exam-fall-2026.pdf
 important dates
 	https://www.ccsf.edu/admissions-recordsregistration/important-dates
+
+
+**Course overview and philosophy**
+**Course details**
+## Grading Policies and Evaluation Methods
+## Course Calendar
+## Course Materials
+
+Hi Michael, thank you for the message. I look forward to seeing you on Monday.
+
+Before then, please read over the syllabus on our Canvas page, especially the sections titled
+Course overview and philosophy
+Course details
+Grading Policies and Evaluation Methods
+Course Calendar
+
+Additionally, please read the announcements on our Canvas page and complete the assignment titled "To do before our next class".
+
+Let me know if you have any questions. See you Monday!
+
+Jack
