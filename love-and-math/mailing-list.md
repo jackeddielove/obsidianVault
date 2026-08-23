@@ -14,3 +14,7 @@ Joe (Matt's friend) joe.cammarata@kidder.com
 hunter whunterdean@gmail.com
 rauri rauri76@gmail.com
 ronnie miahillix6@gmail.com
+wendy pigeonsailor@gmail.com
+zeke sikelianos@gmail.com
+kara palanuk@berkeley.edu
+benoit benoit.dherin@gmail.com

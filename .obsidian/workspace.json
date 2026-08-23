@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ccsf/admin/admin.md",
+                "file": "love-and-math/mailing-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "admin"
+              "title": "mailing-list"
             }
           }
         ]
@@ -192,13 +192,13 @@
   },
   "active": "0d4814e309f7c510",
   "lastOpenFiles": [
+    "ccsf/admin/admin.md",
     "ccsf/precalc/roster.md",
     "irs-payment-plan.pdf",
     "expenses.md",
     "tabs.md",
     "to-do.md",
     "love-and-math/mailing-list.md",
-    "ccsf/admin/admin.md",
     "ccsf/admin",
     "ccsf/precalc/catalog-info.md",
     "math.md",
