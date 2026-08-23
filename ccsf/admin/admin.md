@@ -13,9 +13,12 @@ hr: 415-752-7660
 payroll: 415-452-7740
 
 outlook pw: 
+
 RamID:
 RamPW:
+
 runestone username: drjacklove
+runestone pw: 00_loremipsum_00
 
 [using runestone google doc](https://docs.google.com/document/d/1a4DcgcPos_SoDJ523_OE3MdBsOu7_qGzgNwlFEUbvjs/edit?tab=t.0)
 
