@@ -11,12 +11,14 @@
             "id": "0d4814e309f7c510",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "ccsf/precalc/roster.md"
+                "file": "ccsf/admin/admin.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "roster"
+              "title": "admin"
             }
           }
         ]
@@ -190,10 +192,10 @@
   },
   "active": "0d4814e309f7c510",
   "lastOpenFiles": [
+    "ccsf/precalc/roster.md",
     "irs-payment-plan.pdf",
     "expenses.md",
     "tabs.md",
-    "ccsf/precalc/roster.md",
     "to-do.md",
     "love-and-math/mailing-list.md",
     "ccsf/admin/admin.md",
@@ -217,7 +219,6 @@
     "ccsf/admin/onboarding/forms/tb.pdf",
     "ccsf/admin/onboarding/forms/sickLeave.pdf",
     "ccsf/onboarding/forms/onboardingNotes.md",
-    "ccsf/admin/onboarding/forms/i-9.pdf",
     "ccsf/onboarding/forms/assignment.md",
     "website-about-text.md",
     "cv.md",
