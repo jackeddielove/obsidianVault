@@ -33,8 +33,7 @@
               "title": "admin"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +202,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "3b03ebd5df290b01",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
-    "ccsf/precalc/roster.md",
+    "ccsf/precalc/syllabus.pdf",
     "ccsf/admin/admin.md",
+    "ccsf/precalc/roster.md",
     "love-and-math/mailing-list.md",
     "irs-payment-plan.pdf",
     "expenses.md",
