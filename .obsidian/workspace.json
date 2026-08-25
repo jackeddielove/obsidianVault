@@ -32,9 +32,21 @@
               "icon": "lucide-file",
               "title": "admin"
             }
+          },
+          {
+            "id": "5f668de88561559e",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
+              },
+              "icon": "lucide-file",
+              "title": "aug-dec-2026-records"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,12 +215,12 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "3b03ebd5df290b01",
+  "active": "5f668de88561559e",
   "lastOpenFiles": [
+    "ccsf/admin/admin.md",
     "ccsf/admin/IMG_0610.heic",
     "ccsf/precalc/roster.md",
     "ccsf/precalc/syllabus.pdf",
-    "ccsf/admin/admin.md",
     "love-and-math/mailing-list.md",
     "irs-payment-plan.pdf",
     "expenses.md",
@@ -231,7 +243,6 @@
     "ccsf/admin/onboarding/forms/calStrs2.pdf",
     "ccsf/admin/onboarding/forms/calStrs1.pdf",
     "ccsf/onboarding/forms/w4.pdf",
-    "ccsf/admin/onboarding/forms/tb.pdf",
     "ccsf/onboarding/forms/onboardingNotes.md",
     "ccsf/onboarding/forms/assignment.md",
     "website-about-text.md",
