@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,8 +229,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "f43667e89b52bddf",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
+    "ccsf/precalc/assessments/assessment-example-1.png",
+    "ccsf/precalc/assessments",
+    "ccsf/precalc/catalog-info.md",
     "ccsf/admin/admin.md",
     "ccsf/precalc/roster.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
@@ -242,7 +245,6 @@
     "tabs.md",
     "to-do.md",
     "ccsf/admin",
-    "ccsf/precalc/catalog-info.md",
     "math.md",
     "ccsf/precalc/canvas-integration.md",
     "ccsf/precalc/email to shawn about textbook.md",
@@ -257,7 +259,6 @@
     "ccsf/admin/onboarding/hiring-letter.pdf",
     "ccsf/admin/onboarding/forms/calStrs2.pdf",
     "ccsf/admin/onboarding/forms/calStrs1.pdf",
-    "ccsf/onboarding/forms/w4.pdf",
     "ccsf/onboarding/forms/onboardingNotes.md",
     "ccsf/onboarding/forms/assignment.md",
     "website-about-text.md",
@@ -267,7 +268,6 @@
     "obsidian examples.md",
     "Untitled.md",
     "waitlist.md",
-    "old-stuff.md",
     "love-and-math/legal-financial/business-receipts/stationary.png"
   ]
 }
