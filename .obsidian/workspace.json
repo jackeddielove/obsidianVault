@@ -45,8 +45,7 @@
               "title": "aug-dec-2026-records"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,9 +214,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "5f668de88561559e",
+  "active": "0d4814e309f7c510",
   "lastOpenFiles": [
     "ccsf/admin/admin.md",
+    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/admin/IMG_0610.heic",
     "ccsf/precalc/roster.md",
     "ccsf/precalc/syllabus.pdf",
