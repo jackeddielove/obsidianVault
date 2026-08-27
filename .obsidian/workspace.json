@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3000cdb5421c455c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
+          },
+          {
             "id": "3b03ebd5df290b01",
             "type": "leaf",
             "state": {
@@ -59,7 +71,8 @@
               "title": "aug-dec-2026-records"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +241,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "0d4814e309f7c510",
+  "active": "3000cdb5421c455c",
   "lastOpenFiles": [
     "ccsf/admin/admin.md",
     "ccsf/precalc/roster.md",
