@@ -20,29 +20,15 @@
             }
           },
           {
-            "id": "3000cdb5421c455c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
-            }
-          },
-          {
             "id": "3b03ebd5df290b01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ccsf/admin/admin.md",
-                "mode": "source",
-                "source": false
+                "file": "love-and-math/marketing/biz-profile-pic-1.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "admin"
+              "icon": "lucide-image",
+              "title": "biz-profile-pic-1"
             }
           },
           {
@@ -241,8 +227,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "3000cdb5421c455c",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
+    "love-and-math/marketing/infinity-workshop.heic",
+    "love-and-math/marketing/IMG_0577 2 2.heic",
+    "love-and-math/mailing-list.md",
+    "love-and-math/marketing/IMG_0577 2 1.heic",
+    "love-and-math/marketing/IMG_0577 2.heic",
     "ccsf/admin/admin.md",
     "ccsf/precalc/roster.md",
     "ccsf/precalc/assessments/assessment-example-1.png",
@@ -251,7 +242,6 @@
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/admin/IMG_0610.heic",
     "ccsf/precalc/syllabus.pdf",
-    "love-and-math/mailing-list.md",
     "irs-payment-plan.pdf",
     "expenses.md",
     "tabs.md",
@@ -268,9 +258,6 @@
     "ccsf/precalc/add priorities.md",
     "ccsf/questions-for-mary.md",
     "ccsf/onboarding/parking-permit.md",
-    "ccsf/admin/onboarding/hiring-letter.pdf",
-    "ccsf/admin/onboarding/forms/calStrs2.pdf",
-    "ccsf/admin/onboarding/forms/calStrs1.pdf",
     "ccsf/onboarding/forms/onboardingNotes.md",
     "ccsf/onboarding/forms/assignment.md",
     "website-about-text.md",
