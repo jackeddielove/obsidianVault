@@ -58,6 +58,18 @@
             }
           },
           {
+            "id": "becd33f4c2195128",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "love-and-math/legal-financial/jan-jul-2026-records.md"
+              },
+              "icon": "lucide-file",
+              "title": "jan-jul-2026-records"
+            }
+          },
+          {
             "id": "d50f970b2266df1b",
             "type": "leaf",
             "state": {
@@ -72,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,11 +253,12 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6963f27fe3d92bb8",
+  "active": "6238fa5d5e79cae6",
   "lastOpenFiles": [
-    "covered ca.md",
-    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "expenses.md",
+    "love-and-math/legal-financial/aug-dec-2026-records.md",
+    "love-and-math/legal-financial/jan-jul-2026-records.md",
+    "covered ca.md",
     "ccsf/admin/admin.md",
     "ccsf/precalc/grades-week1.csv",
     "ccsf/precalc/roster.md",
