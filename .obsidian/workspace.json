@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,10 +215,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6238fa5d5e79cae6",
+  "active": "055a42579f31d917",
   "lastOpenFiles": [
-    "expenses.md",
     "ccsf/admin/admin.md",
+    "expenses.md",
     "ccsf/precalc/grades-week1.csv",
     "ccsf/precalc/roster.md",
     "ccsf/admin/dental-form-3496.pdf",
