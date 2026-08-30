@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,13 +253,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6238fa5d5e79cae6",
+  "active": "055a42579f31d917",
   "lastOpenFiles": [
+    "love-and-math/legal-financial/jan-jul-2026-records.md",
+    "ccsf/admin/admin.md",
     "expenses.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
-    "love-and-math/legal-financial/jan-jul-2026-records.md",
     "covered ca.md",
-    "ccsf/admin/admin.md",
     "ccsf/precalc/grades-week1.csv",
     "ccsf/precalc/roster.md",
     "ccsf/admin/dental-form-3496.pdf",
