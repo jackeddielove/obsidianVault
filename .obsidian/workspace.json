@@ -61,8 +61,7 @@
               "title": "roster"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,11 +230,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "40498f9d96ade918",
+  "active": "6238fa5d5e79cae6",
   "lastOpenFiles": [
+    "covered ca.md",
     "ccsf/precalc/assessments/ch1-practice-1.png",
     "ccsf/precalc/assessments/assessment-example-1.png",
-    "covered ca.md",
     "ccsf/precalc/catalog-info.md",
     "ccsf/admin/admin.md",
     "ccsf/precalc/roster.md",
