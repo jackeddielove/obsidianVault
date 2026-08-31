@@ -1,3 +1,8 @@
+Our home is right here, and we just keep leaving it.
+We're like sailors, looking for the shore, when we're already shipwrecked on it.
+We're not actually out at sea.
+We think we're adventuring off to new worlds, but we're in a toy boat in a snow globe, the sea spray glitter swirled up by our own tumblings of it.
+
 We're all here, working out karma, and we need reminders from each other that we're ok.
 
 What's going on right now? We don't have to answer the questions, we just have to be willing to genuinely ask it.
