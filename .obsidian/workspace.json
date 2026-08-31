@@ -33,7 +33,8 @@
               "title": "roster"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,10 +203,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6238fa5d5e79cae6",
+  "active": "15b4a61418357170",
   "lastOpenFiles": [
-    "ccsf/precalc/roster.md",
     "ccsf/admin/admin.md",
+    "ccsf/precalc/roster.md",
     "guidance/insights.md",
     "covered ca.md",
     "expenses.md",
