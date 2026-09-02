@@ -1,3 +1,14 @@
+It seems to me I've lost some things and don't know where to find 'em
+It's hard to say just what they are or where I left behind 'em
+I know by now they can't be held but only can be grasped
+It's lonely here without their shelter when the clouds are comin' fast
+So I simply turn my face right up into the rain at last
+And every drop's an echo of the river runnin' through my past
+And all these missing pieces are reflected in these beads of glass
+Through the muddy puddles and high upon a shelf of grass
+I realize I haven't lost a step or missed a beat
+All that's left to do is clear my head and dry my feet
+
 Our home is right here, and we just keep leaving it.
 We're like sailors, looking for the shore, when we're already shipwrecked on it.
 We're not actually out at sea.
