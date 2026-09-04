@@ -6,6 +6,7 @@ So I simply turn my face right up into the rain at last
 And every drop's an echo of the river runnin' through my past
 And all these missing pieces are reflected in these beads of glass
 Through the muddy puddles and high upon a shelf of grass
+Lookin' down upon those clouds without a question I might ask
 I realize I haven't lost a step or missed a beat
 All that's left to do is clear my head and dry my feet
 

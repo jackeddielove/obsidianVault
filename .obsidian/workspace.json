@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e136e15d209aeaf6",
+        "id": "2354d7f3f3623bcc",
         "type": "tabs",
         "children": [
           {
-            "id": "70dacd468bc9c5da",
+            "id": "21323a6f7e12364e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,8 +186,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "70dacd468bc9c5da",
+  "active": "21323a6f7e12364e",
   "lastOpenFiles": [
+    "guidance/insights.md",
     "ccsf/admin/admin.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "money-tracking.md",
@@ -195,7 +196,6 @@
     "covered ca.md",
     "ccsf/precalc/roster.md",
     "ccsf/precalc/catalog-info.md",
-    "guidance/insights.md",
     "ccsf/precalc/assessments/ch1-practice-1.png",
     "ccsf/precalc/assessments/assessment-example-1.png",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
