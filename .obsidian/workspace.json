@@ -59,8 +59,7 @@
               "title": "expenses"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,8 +228,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "baa9e24ae3074150",
+  "active": "6238fa5d5e79cae6",
   "lastOpenFiles": [
+    "expenses.md",
     "ccsf/precalc/roster.md",
     "ccsf/admin/admin.md",
     "ccsf/precalc/catalog-info.md",
@@ -238,7 +238,6 @@
     "covered ca.md",
     "ccsf/precalc/assessments/ch1-practice-1.png",
     "ccsf/precalc/assessments/assessment-example-1.png",
-    "expenses.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/tutoring/student-resources/lou-extra-time.md",
