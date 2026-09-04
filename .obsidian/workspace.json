@@ -33,8 +33,7 @@
               "title": "roster"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +202,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "81bdba6ba998c372",
+  "active": "53eec5e6fd428478",
   "lastOpenFiles": [
-    "ccsf/admin/admin.md",
     "ccsf/precalc/roster.md",
+    "ccsf/admin/admin.md",
     "money-tracking.md",
     "guidance/insights.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
