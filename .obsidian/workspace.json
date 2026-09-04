@@ -27,6 +27,18 @@
             "state": {
               "type": "excel-pro-view",
               "state": {
+                "file": "money-tracking.md"
+              },
+              "icon": "lucide-file",
+              "title": "money-tracking"
+            }
+          },
+          {
+            "id": "3b4b93caf6064d86",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
                 "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
               },
               "icon": "lucide-file",
@@ -217,13 +229,14 @@
   },
   "active": "15b4a61418357170",
   "lastOpenFiles": [
-    "ccsf/precalc/roster.md",
-    "love-and-math/legal-financial/aug-dec-2026-records.md",
-    "ccsf/precalc/catalog-info.md",
     "ccsf/admin/admin.md",
+    "money-tracking.md",
+    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "expenses.md",
-    "guidance/insights.md",
     "covered ca.md",
+    "ccsf/precalc/roster.md",
+    "ccsf/precalc/catalog-info.md",
+    "guidance/insights.md",
     "ccsf/precalc/assessments/ch1-practice-1.png",
     "ccsf/precalc/assessments/assessment-example-1.png",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
