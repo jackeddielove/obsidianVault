@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ebea1e23a0d060b",
+        "id": "81d09a3b2ce66041",
         "type": "tabs",
         "children": [
           {
-            "id": "598ba6405e3197c6",
+            "id": "16fbcf6991abe5e0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/legal-financial/business-receipts/paper-and-pencils.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "paper-and-pencils"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
