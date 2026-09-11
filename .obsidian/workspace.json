@@ -11,10 +11,12 @@
             "id": "16fbcf6991abe5e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excel-pro-view",
+              "state": {
+                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "aug-dec-2026-records"
             }
           }
         ]
@@ -186,8 +188,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "16fbcf6991abe5e0",
   "lastOpenFiles": [
+    "covered ca.md",
     "love-and-math/legal-financial/business-receipts/paper-and-pencils.pdf",
     "love-and-math/legal-financial/business-receipts/paper-and-pencils-2.pdf",
     "ccsf/precalc/roster.md",
@@ -213,12 +216,10 @@
     "ccsf/precalc/grades-week2.csv",
     "guidance/insights.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
-    "covered ca.md",
     "ccsf/precalc/catalog-info.md",
     "ccsf/precalc/assessments/assessment-example-1.png",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "love-and-math/tutoring/student-resources/lou-extra-time.md",
-    "ccsf/precalc/grades-week1.csv",
     "love-and-math/marketing/biz-profile-pic-1.jpeg",
     "love-and-math/mailing-list.md",
     "tabs.md",
