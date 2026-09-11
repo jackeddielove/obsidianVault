@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81d09a3b2ce66041",
+        "id": "5236e7c38b1831ce",
         "type": "tabs",
         "children": [
           {
-            "id": "773ae378bf176111",
+            "id": "9dd35608df739365",
             "type": "leaf",
             "state": {
               "type": "excel-pro-view",
@@ -20,15 +20,147 @@
             }
           },
           {
-            "id": "c236db56996cecbb",
+            "id": "003a373454b0bd48",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "love-and-math/legal-financial/business-receipts/zoom.pdf"
+                "file": "love-and-math/legal-financial/business-receipts/workshop-snacks.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "zoom"
+              "title": "workshop-snacks"
+            }
+          },
+          {
+            "id": "21896085bfe319d3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "whiteboard-markers"
+            }
+          },
+          {
+            "id": "8e785d97f15b045b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/tripod.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "tripod"
+            }
+          },
+          {
+            "id": "47a229ac93817bd4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/stationary-2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "stationary-2"
+            }
+          },
+          {
+            "id": "f0a1ae44117fae05",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/stationary.png"
+              },
+              "icon": "lucide-image",
+              "title": "stationary"
+            }
+          },
+          {
+            "id": "52e0375dea8e0bc3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/sf-registration-receipt.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "sf-registration-receipt"
+            }
+          },
+          {
+            "id": "c3abdda0989a3408",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/rentals-part1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "rentals-part1"
+            }
+          },
+          {
+            "id": "24eb38daf52c280f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/rentals-part2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "rentals-part2"
+            }
+          },
+          {
+            "id": "f2e1302640c7d53f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/printer-cartridge-4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "printer-cartridge-4"
+            }
+          },
+          {
+            "id": "114661215f5023de",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/printer-cartridge-3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "printer-cartridge-3"
+            }
+          },
+          {
+            "id": "0a6d04c0efc186c7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/printer-cartridge-2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "printer-cartridge-2"
+            }
+          },
+          {
+            "id": "3764279f06ebb05b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/printer-cartridge.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "printer-cartridge"
             }
           }
         ]
@@ -200,30 +332,30 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "773ae378bf176111",
+  "active": "9dd35608df739365",
   "lastOpenFiles": [
-    "love-and-math/legal-financial/business-receipts/zoom.pdf",
-    "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/business-receipts/workshop-snacks.pdf",
+    "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf",
-    "love-and-math/legal-financial/business-receipts/stationary.png",
-    "love-and-math/legal-financial/business-receipts/stationary-2.pdf",
     "love-and-math/legal-financial/business-receipts/tripod.pdf",
+    "love-and-math/legal-financial/business-receipts/stationary-2.pdf",
+    "love-and-math/legal-financial/business-receipts/stationary.png",
     "love-and-math/legal-financial/business-receipts/sf-registration-receipt.pdf",
     "love-and-math/legal-financial/business-receipts/rentals-part2.pdf",
     "love-and-math/legal-financial/business-receipts/rentals-part1.pdf",
     "love-and-math/legal-financial/business-receipts/printer-cartridge-4.pdf",
     "love-and-math/legal-financial/business-receipts/printer-cartridge-3.pdf",
     "love-and-math/legal-financial/business-receipts/printer-cartridge-2.pdf",
-    "money-tracking.md",
+    "love-and-math/legal-financial/business-receipts/printer-cartridge.pdf",
+    "expenses.md",
     "love-and-math/legal-financial/business-receipts/monitor.png",
     "love-and-math/legal-financial/business-receipts/cuttingMat.png",
     "love-and-math/legal-financial/business-receipts/loveAndMathBook/link.png",
     "love-and-math/legal-financial/business-receipts/loveAndMathBook/bookshopDOTorg.png",
+    "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "covered ca.md",
     "ccsf/precalc/roster.md",
-    "expenses.md",
     "ccsf/precalc/assessments/ch1/ch1-practice-1.png",
     "ccsf/admin/admin.md",
     "ideas.md",
