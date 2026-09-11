@@ -8,15 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16fbcf6991abe5e0",
+            "id": "773ae378bf176111",
             "type": "leaf",
             "state": {
               "type": "excel-pro-view",
               "state": {
-                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
+                "file": "love-and-math/legal-financial/business-receipts/biz-expenses.md"
               },
               "icon": "lucide-file",
-              "title": "aug-dec-2026-records"
+              "title": "biz-expenses"
+            }
+          },
+          {
+            "id": "c236db56996cecbb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/zoom.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "zoom"
             }
           }
         ]
@@ -188,19 +200,32 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "16fbcf6991abe5e0",
+  "active": "773ae378bf176111",
   "lastOpenFiles": [
-    "covered ca.md",
-    "love-and-math/legal-financial/business-receipts/paper-and-pencils.pdf",
-    "love-and-math/legal-financial/business-receipts/paper-and-pencils-2.pdf",
-    "ccsf/precalc/roster.md",
+    "love-and-math/legal-financial/business-receipts/zoom.pdf",
+    "love-and-math/legal-financial/business-receipts/biz-expenses.md",
+    "love-and-math/legal-financial/business-receipts/workshop-snacks.pdf",
+    "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf",
+    "love-and-math/legal-financial/business-receipts/stationary.png",
+    "love-and-math/legal-financial/business-receipts/stationary-2.pdf",
+    "love-and-math/legal-financial/business-receipts/tripod.pdf",
+    "love-and-math/legal-financial/business-receipts/sf-registration-receipt.pdf",
+    "love-and-math/legal-financial/business-receipts/rentals-part2.pdf",
+    "love-and-math/legal-financial/business-receipts/rentals-part1.pdf",
+    "love-and-math/legal-financial/business-receipts/printer-cartridge-4.pdf",
+    "love-and-math/legal-financial/business-receipts/printer-cartridge-3.pdf",
+    "love-and-math/legal-financial/business-receipts/printer-cartridge-2.pdf",
     "money-tracking.md",
+    "love-and-math/legal-financial/business-receipts/monitor.png",
+    "love-and-math/legal-financial/business-receipts/cuttingMat.png",
+    "love-and-math/legal-financial/business-receipts/loveAndMathBook/link.png",
+    "love-and-math/legal-financial/business-receipts/loveAndMathBook/bookshopDOTorg.png",
+    "love-and-math/legal-financial/aug-dec-2026-records.md",
+    "covered ca.md",
+    "ccsf/precalc/roster.md",
     "expenses.md",
-    "ccsf/precalc/assessments/ch1/1_1-1_5.pdf",
     "ccsf/precalc/assessments/ch1/ch1-practice-1.png",
     "ccsf/admin/admin.md",
-    "ccsf/precalc/assessments/ch1",
-    "irs-payment-plan.pdf",
     "ideas.md",
     "math-travel/instructions.md",
     "math-travel/email.md",
@@ -208,19 +233,10 @@
     "ccsf/precalc/assessments/Screenshot 2026-09-07 at 7.48.09 PM.png",
     "ccsf/precalc/assessments/Screenshot 2026-09-07 at 7.43.50 PM.png",
     "ccsf/precalc/assessments/ch1/ch1-practice-2.png",
-    "ccsf/precalc/assessments/Screenshot 2026-09-07 at 7.37.32 PM.png",
-    "math-travel",
-    "~$structions for AS Workflow Forms - Faculty Travel.docx",
-    "Instructions for AS Workflow Forms - Faculty Travel 1.docx",
-    "Instructions for AS Workflow Forms - Faculty Travel.docx",
-    "ccsf/precalc/grades-week2.csv",
     "guidance/insights.md",
-    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/precalc/catalog-info.md",
-    "ccsf/precalc/assessments/assessment-example-1.png",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "love-and-math/tutoring/student-resources/lou-extra-time.md",
-    "love-and-math/marketing/biz-profile-pic-1.jpeg",
     "love-and-math/mailing-list.md",
     "tabs.md",
     "to-do.md",
@@ -229,11 +245,8 @@
     "ccsf/precalc/email to shawn about textbook.md",
     "ccsf/precalc/planning-info.md",
     "ccsf/precalc/syllabus.md",
-    "ccsf/precalc/waitlist.png",
     "ccsf/precalc/add priorities.md",
     "ccsf/questions-for-mary.md",
-    "ccsf/onboarding/parking-permit.md",
-    "ccsf/onboarding/forms/onboardingNotes.md",
-    "love-and-math/legal-financial/business-receipts/stationary.png"
+    "ccsf/onboarding/parking-permit.md"
   ]
 }
