@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "965fed28288ddd31",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/LLCfilings/articles of organization filing receipt.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "articles of organization filing receipt"
+            }
+          },
+          {
             "id": "e61bd789a1c33722",
             "type": "leaf",
             "state": {
@@ -70,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,13 +251,14 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "8dd138be51420d55",
+  "active": "1e58353880e083f8",
   "lastOpenFiles": [
-    "money-tracking.md",
+    "love-and-math/legal-financial/business-receipts/LLCfilings/articles of organization filing receipt.pdf",
+    "expenses.md",
     "future-tax-payment-plan.md",
+    "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
-    "expenses.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/business-receipts/zoom.pdf",
     "love-and-math/legal-financial/business-receipts/workshop-snacks.pdf",
@@ -285,7 +298,6 @@
     "ccsf/precalc/planning-info.md",
     "ccsf/precalc/syllabus.md",
     "ccsf/precalc/add priorities.md",
-    "ccsf/questions-for-mary.md",
-    "ccsf/onboarding/parking-permit.md"
+    "ccsf/questions-for-mary.md"
   ]
 }
