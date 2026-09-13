@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "5236e7c38b1831ce",
+        "id": "43bb557d747a9086",
         "type": "tabs",
         "children": [
           {
-            "id": "9dd35608df739365",
+            "id": "e84b3c5343fd2ee7",
             "type": "leaf",
             "state": {
               "type": "excel-pro-view",
               "state": {
-                "file": "love-and-math/legal-financial/business-receipts/biz-expenses.md"
+                "file": "money-tracking.md"
               },
               "icon": "lucide-file",
-              "title": "biz-expenses"
+              "title": "money-tracking"
+            }
+          },
+          {
+            "id": "1e58353880e083f8",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "expenses.md"
+              },
+              "icon": "lucide-file",
+              "title": "expenses"
+            }
+          },
+          {
+            "id": "e61bd789a1c33722",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
+              },
+              "icon": "lucide-file",
+              "title": "aug-dec-2026-records"
+            }
+          },
+          {
+            "id": "9b3f6be54a785ffe",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "love-and-math/legal-financial/jan-jul-2026-records.md"
+              },
+              "icon": "lucide-file",
+              "title": "jan-jul-2026-records"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,10 +225,14 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "e61bd789a1c33722",
   "lastOpenFiles": [
-    "love-and-math/legal-financial/business-receipts/zoom.pdf",
+    "love-and-math/legal-financial/jan-jul-2026-records.md",
+    "love-and-math/legal-financial/aug-dec-2026-records.md",
+    "expenses.md",
+    "money-tracking.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
+    "love-and-math/legal-financial/business-receipts/zoom.pdf",
     "love-and-math/legal-financial/business-receipts/workshop-snacks.pdf",
     "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf",
     "love-and-math/legal-financial/business-receipts/tripod.pdf",
@@ -202,14 +243,10 @@
     "love-and-math/legal-financial/business-receipts/rentals-part1.pdf",
     "love-and-math/legal-financial/business-receipts/printer-cartridge-4.pdf",
     "love-and-math/legal-financial/business-receipts/printer-cartridge-3.pdf",
-    "love-and-math/legal-financial/business-receipts/printer-cartridge-2.pdf",
-    "expenses.md",
     "love-and-math/legal-financial/business-receipts/monitor.png",
     "love-and-math/legal-financial/business-receipts/cuttingMat.png",
     "love-and-math/legal-financial/business-receipts/loveAndMathBook/link.png",
     "love-and-math/legal-financial/business-receipts/loveAndMathBook/bookshopDOTorg.png",
-    "money-tracking.md",
-    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "covered ca.md",
     "ccsf/precalc/roster.md",
     "ccsf/precalc/assessments/ch1/ch1-practice-1.png",
@@ -223,7 +260,6 @@
     "ccsf/precalc/assessments/ch1/ch1-practice-2.png",
     "guidance/insights.md",
     "ccsf/precalc/catalog-info.md",
-    "love-and-math/legal-financial/jan-jul-2026-records.md",
     "love-and-math/tutoring/student-resources/lou-extra-time.md",
     "love-and-math/mailing-list.md",
     "tabs.md",
