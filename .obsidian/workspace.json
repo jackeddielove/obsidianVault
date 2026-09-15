@@ -37,12 +37,14 @@
             "id": "1e58353880e083f8",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "expenses.md"
+                "file": "love-and-math/copy/wyzant.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "expenses"
+              "title": "wyzant"
             }
           },
           {
@@ -251,10 +253,18 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "1e58353880e083f8",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
-    "love-and-math/legal-financial/business-receipts/LLCfilings/articles of organization filing receipt.pdf",
+    "ccsf/precalc/grades/9_15_runestone_grades.csv",
+    "ccsf/precalc/grades/9_15_canvas_grades.csv",
+    "ccsf/precalc/grades/grades-week2.csv",
+    "ccsf/precalc/grades/grades-week1.csv",
+    "ccsf/precalc/grades",
+    "ccsf/precalc/untitled folder",
+    "ccsf/precalc/9_15_runestone_grades.csv",
+    "ccsf/precalc/9_15_canvas_grades.csv",
     "expenses.md",
+    "love-and-math/legal-financial/business-receipts/LLCfilings/articles of organization filing receipt.pdf",
     "future-tax-payment-plan.md",
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
@@ -262,15 +272,7 @@
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/business-receipts/zoom.pdf",
     "love-and-math/legal-financial/business-receipts/workshop-snacks.pdf",
-    "love-and-math/legal-financial/business-receipts/whiteboard-markers.pdf",
-    "love-and-math/legal-financial/business-receipts/tripod.pdf",
-    "love-and-math/legal-financial/business-receipts/stationary-2.pdf",
     "love-and-math/legal-financial/business-receipts/stationary.png",
-    "love-and-math/legal-financial/business-receipts/sf-registration-receipt.pdf",
-    "love-and-math/legal-financial/business-receipts/rentals-part2.pdf",
-    "love-and-math/legal-financial/business-receipts/rentals-part1.pdf",
-    "love-and-math/legal-financial/business-receipts/printer-cartridge-4.pdf",
-    "love-and-math/legal-financial/business-receipts/printer-cartridge-3.pdf",
     "love-and-math/legal-financial/business-receipts/monitor.png",
     "love-and-math/legal-financial/business-receipts/cuttingMat.png",
     "love-and-math/legal-financial/business-receipts/loveAndMathBook/link.png",
