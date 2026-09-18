@@ -18,8 +18,21 @@
               "icon": "lucide-file",
               "title": "aug-dec-2026-records"
             }
+          },
+          {
+            "id": "85ab4876a605ef4b",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "money-tracking.md"
+              },
+              "icon": "lucide-file",
+              "title": "money-tracking"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,8 +201,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "733ec2321e688de3",
+  "active": "85ab4876a605ef4b",
   "lastOpenFiles": [
+    "love-and-math/legal-financial/aug-dec-2026-records.md",
+    "money-tracking.md",
+    "love-and-math/legal-financial/jan-jul-2026-records.md",
     "ccsf/precalc/grades/9_18_canvas_grades.csv",
     "ccsf/precalc/grades/2026-09-18T1029_Grades-MATH_90-Precalculus_Algebra-S61.csv",
     "ccsf/precalc/grades/9_18_runestone_grades.csv",
@@ -204,15 +220,11 @@
     "ccsf/precalc/assessments/ch1/ch1_assessment_practice (2).pdf",
     "love-and-math/copy/wyzant.md",
     "expenses.md",
-    "love-and-math/legal-financial/jan-jul-2026-records.md",
-    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "future-tax-payment-plan.md",
     "ccsf/precalc/grades/9_15_runestone_grades.csv",
     "ccsf/precalc/grades/9_15_canvas_grades.csv",
     "ccsf/precalc/9_15_runestone_grades.csv",
     "ccsf/precalc/9_15_canvas_grades.csv",
-    "ccsf/precalc/grades/grades-week2.csv",
-    "money-tracking.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/business-receipts/stationary.png",
     "love-and-math/legal-financial/business-receipts/monitor.png",
