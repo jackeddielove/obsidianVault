@@ -31,8 +31,7 @@
               "title": "money-tracking"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +200,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "85ab4876a605ef4b",
+  "active": "733ec2321e688de3",
   "lastOpenFiles": [
-    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "money-tracking.md",
+    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "ccsf/precalc/grades/9_18_canvas_grades.csv",
     "ccsf/precalc/grades/2026-09-18T1029_Grades-MATH_90-Precalculus_Algebra-S61.csv",
