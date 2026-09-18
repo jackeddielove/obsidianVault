@@ -11,10 +11,12 @@
             "id": "733ec2321e688de3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excel-pro-view",
+              "state": {
+                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "aug-dec-2026-records"
             }
           }
         ]
@@ -79,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.7445373535156
+    "width": 218.29092407226562
   },
   "right": {
     "id": "af53f55ba7021ae7",
@@ -186,7 +188,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "733ec2321e688de3",
   "lastOpenFiles": [
     "ccsf/precalc/grades/9_18_canvas_grades.csv",
     "ccsf/precalc/grades/2026-09-18T1029_Grades-MATH_90-Precalculus_Algebra-S61.csv",
