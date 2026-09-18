@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "13f82ddb240336c0",
+        "id": "54a5fbe3dd748a9f",
         "type": "tabs",
         "children": [
           {
-            "id": "733ec2321e688de3",
+            "id": "3798de331391873f",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
-              "state": {
-                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "aug-dec-2026-records"
-            }
-          },
-          {
-            "id": "85ab4876a605ef4b",
-            "type": "leaf",
-            "state": {
-              "type": "excel-pro-view",
-              "state": {
-                "file": "money-tracking.md"
-              },
-              "icon": "lucide-file",
-              "title": "money-tracking"
+              "title": "New tab"
             }
           }
         ]
@@ -200,8 +186,19 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "733ec2321e688de3",
+  "active": "3798de331391873f",
   "lastOpenFiles": [
+    "ccsf/precalc/assessments/ch1/ch1-practice-6.png",
+    "ccsf/precalc/assessments/ch1/ch1-practice-5.png",
+    "ccsf/precalc/assessments/ch1/ch1-practice-4.png",
+    "ccsf/precalc/assessments/ch1/ch1-practice-7.png",
+    "ccsf/precalc/assessments/ch1/Screenshot 2026-09-18 at 2.03.15 PM.png",
+    "ccsf/precalc/assessments/ch1/chapter1-practice-6.png",
+    "ccsf/precalc/assessments/ch1/chapter1-practice-5.png",
+    "ccsf/precalc/assessments/ch1/chapter1-practice-4.png",
+    "ccsf/precalc/assessments/ch1/chapter1-practice-3.png",
+    "ccsf/precalc/assessments/ch1/chapter1-practice-2.png",
+    "ccsf/precalc/assessments/ch1/chapter1-practice-1.png",
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
@@ -209,12 +206,6 @@
     "ccsf/precalc/grades/2026-09-18T1029_Grades-MATH_90-Precalculus_Algebra-S61.csv",
     "ccsf/precalc/grades/9_18_runestone_grades.csv",
     "ccsf/precalc/grades/gradebook-Math90-CCSF-Fall-2026 (7).csv",
-    "ccsf/precalc/assessments/ch1/ch1-practice-6.png",
-    "ccsf/precalc/assessments/ch1/ch1-practice-5.png",
-    "ccsf/precalc/assessments/ch1/ch1-practice-4.png",
-    "ccsf/precalc/assessments/ch1/Screenshot 2026-09-17 at 2.54.12 PM.png",
-    "ccsf/precalc/assessments/ch1/Screenshot 2026-09-17 at 2.53.59 PM.png",
-    "ccsf/precalc/assessments/ch1/Screenshot 2026-09-17 at 2.53.43 PM.png",
     "ccsf/precalc/assessments/ch1/1_1-1_7.pdf",
     "ccsf/precalc/assessments/ch1/ch1_assessment_practice (2).pdf",
     "love-and-math/copy/wyzant.md",
@@ -225,10 +216,6 @@
     "ccsf/precalc/9_15_runestone_grades.csv",
     "ccsf/precalc/9_15_canvas_grades.csv",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
-    "love-and-math/legal-financial/business-receipts/stationary.png",
-    "love-and-math/legal-financial/business-receipts/monitor.png",
-    "love-and-math/legal-financial/business-receipts/cuttingMat.png",
-    "love-and-math/legal-financial/business-receipts/loveAndMathBook/link.png",
     "covered ca.md",
     "ccsf/precalc/roster.md",
     "ccsf/admin/admin.md",
