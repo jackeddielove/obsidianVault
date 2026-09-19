@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54a5fbe3dd748a9f",
+        "id": "b1869a3eeed55570",
         "type": "tabs",
         "children": [
           {
-            "id": "3798de331391873f",
+            "id": "49a90e816d5994bb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,8 +186,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "3798de331391873f",
+  "active": "49a90e816d5994bb",
   "lastOpenFiles": [
+    "ccsf/precalc/calendar_sep18.md",
     "ccsf/precalc/assessments/ch1/ch1-practice-assessment.pdf",
     "ccsf/precalc/assessments/ch1/ch1_assessment_practice (2).pdf",
     "ccsf/precalc/assessments/ch1/ch1-practice-8.png",
@@ -214,7 +215,6 @@
     "ccsf/precalc/grades/9_15_runestone_grades.csv",
     "ccsf/precalc/grades/9_15_canvas_grades.csv",
     "ccsf/precalc/9_15_runestone_grades.csv",
-    "ccsf/precalc/9_15_canvas_grades.csv",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "covered ca.md",
     "ccsf/precalc/roster.md",
