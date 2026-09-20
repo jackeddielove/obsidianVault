@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0177fc68934cf3b0",
+        "id": "57df8c56f4b202ea",
         "type": "tabs",
         "children": [
           {
-            "id": "fb38277c00df3c25",
+            "id": "07e7e9c9a69491dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excel-pro-view",
+              "state": {
+                "file": "ccsf/precalc/calendar_sep18.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "calendar_sep18"
             }
           }
         ]
@@ -186,8 +188,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "fb38277c00df3c25",
+  "active": "07e7e9c9a69491dd",
   "lastOpenFiles": [
+    "future-tax-payment-plan.md",
     "money-tracking.md",
     "ccsf/precalc/calendar_sep18.md",
     "ccsf/precalc/assessments/ch1/ch1-practice-assessment.pdf",
@@ -211,7 +214,6 @@
     "ccsf/precalc/assessments/ch1/1_1-1_7.pdf",
     "love-and-math/copy/wyzant.md",
     "expenses.md",
-    "future-tax-payment-plan.md",
     "ccsf/precalc/grades/9_15_runestone_grades.csv",
     "ccsf/precalc/grades/9_15_canvas_grades.csv",
     "ccsf/precalc/9_15_runestone_grades.csv",
