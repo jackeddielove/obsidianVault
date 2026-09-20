@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1869a3eeed55570",
+        "id": "0177fc68934cf3b0",
         "type": "tabs",
         "children": [
           {
-            "id": "49a90e816d5994bb",
+            "id": "fb38277c00df3c25",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,8 +186,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "49a90e816d5994bb",
+  "active": "fb38277c00df3c25",
   "lastOpenFiles": [
+    "money-tracking.md",
     "ccsf/precalc/calendar_sep18.md",
     "ccsf/precalc/assessments/ch1/ch1-practice-assessment.pdf",
     "ccsf/precalc/assessments/ch1/ch1_assessment_practice (2).pdf",
@@ -201,7 +202,6 @@
     "ccsf/precalc/assessments/ch1/chapter1-practice-6.png",
     "ccsf/precalc/assessments/ch1/chapter1-practice-5.png",
     "ccsf/precalc/assessments/ch1/chapter1-practice-4.png",
-    "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "ccsf/precalc/grades/9_18_canvas_grades.csv",
