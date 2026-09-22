@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "24f0338ecf4723fa",
+        "id": "b0fe481d87c23898",
         "type": "tabs",
         "children": [
           {
-            "id": "1f813a1ce466cbf6",
+            "id": "a118ee972bfb0f22",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3545.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "IMG_3545"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
