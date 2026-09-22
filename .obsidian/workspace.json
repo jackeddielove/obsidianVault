@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "57df8c56f4b202ea",
+        "id": "24f0338ecf4723fa",
         "type": "tabs",
         "children": [
           {
-            "id": "07e7e9c9a69491dd",
+            "id": "1f813a1ce466cbf6",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "image",
               "state": {
-                "file": "ccsf/precalc/calendar_sep18.md"
+                "file": "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3545.jpg"
               },
-              "icon": "lucide-file",
-              "title": "calendar_sep18"
+              "icon": "lucide-image",
+              "title": "IMG_3545"
             }
           }
         ]
@@ -188,11 +188,25 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "07e7e9c9a69491dd",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
+    "love-and-math/tutoring/summer plans.md",
+    "love-and-math/tutoring/zeke/geometry/ch2-exercises",
+    "love-and-math/tutoring/zeke/geometry/syllabus.pdf",
+    "love-and-math/tutoring/zeke/geometry/Unconfirmed 51977.crdownload",
+    "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3547.jpg",
+    "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3546.jpg",
+    "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3545.jpg",
+    "love-and-math/tutoring/students.md",
+    "love-and-math/tutoring/zeke/geometry",
+    "love-and-math/tutoring/zeke/calc-III/hw4/1.png",
+    "love-and-math/tutoring/fall-schedule.md",
+    "love-and-math/tutoring/zeke/calc-III",
+    "ccsf/precalc/calendar_sep18.md",
+    "love-and-math/tutoring/zeke/syllabus.pdf",
+    "love-and-math/tutoring/zeke/zeke.md",
     "future-tax-payment-plan.md",
     "money-tracking.md",
-    "ccsf/precalc/calendar_sep18.md",
     "ccsf/precalc/assessments/ch1/ch1-practice-assessment.pdf",
     "ccsf/precalc/assessments/ch1/ch1_assessment_practice (2).pdf",
     "ccsf/precalc/assessments/ch1/ch1-practice-8.png",
@@ -201,22 +215,12 @@
     "ccsf/precalc/assessments/ch1/ch1-practice-5.png",
     "ccsf/precalc/assessments/ch1/ch1-practice-4.png",
     "ccsf/precalc/assessments/ch1/ch1-practice-7.png",
-    "ccsf/precalc/assessments/ch1/Screenshot 2026-09-18 at 2.03.15 PM.png",
-    "ccsf/precalc/assessments/ch1/chapter1-practice-6.png",
-    "ccsf/precalc/assessments/ch1/chapter1-practice-5.png",
-    "ccsf/precalc/assessments/ch1/chapter1-practice-4.png",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "ccsf/precalc/grades/9_18_canvas_grades.csv",
     "ccsf/precalc/grades/2026-09-18T1029_Grades-MATH_90-Precalculus_Algebra-S61.csv",
-    "ccsf/precalc/grades/9_18_runestone_grades.csv",
-    "ccsf/precalc/grades/gradebook-Math90-CCSF-Fall-2026 (7).csv",
-    "ccsf/precalc/assessments/ch1/1_1-1_7.pdf",
     "love-and-math/copy/wyzant.md",
     "expenses.md",
-    "ccsf/precalc/grades/9_15_runestone_grades.csv",
-    "ccsf/precalc/grades/9_15_canvas_grades.csv",
-    "ccsf/precalc/9_15_runestone_grades.csv",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "covered ca.md",
     "ccsf/precalc/roster.md",
@@ -230,11 +234,6 @@
     "love-and-math/mailing-list.md",
     "tabs.md",
     "to-do.md",
-    "math.md",
-    "ccsf/precalc/canvas-integration.md",
-    "ccsf/precalc/email to shawn about textbook.md",
-    "ccsf/precalc/planning-info.md",
-    "ccsf/precalc/syllabus.md",
-    "ccsf/precalc/add priorities.md"
+    "math.md"
   ]
 }
