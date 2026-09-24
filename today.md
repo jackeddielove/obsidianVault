@@ -1,6 +1,6 @@
 - [x] complete practice assessment and post -- delete old files
 - [ ] ch 1 assessment
-	- [ ] make sure each problem is different from the practice assessment
+	- [x] make sure each problem is different from the practice assessment
 	- [ ] print one
 	- [ ] take assessment yourself
 	- [ ] make any changes
@@ -11,3 +11,19 @@
 	- [ ] afternoon session
 - [ ] give feedback to active prelude group from students
 - [ ] set up gradescope
+- [ ] submit teaching preferences
+	- [ ] math 65 (3) 
+	- [ ] math 70 (3) 
+	- [ ] math 75 (5) 
+	- [ ] math 90 (8) 
+	- [ ] math 95 (6) 
+	- [ ] math 100A (3) 
+	- [ ] math 100B (3) 
+	- [ ] math 101 (6) 
+	- [ ] math 110A (7) 
+	- [ ] math 110B (5) 
+	- [ ] math 110C (5) 
+	- [ ] math 115 (3)
+	- [ ] math 120 (3)
+	- [ ] math 125 (3)
+	- [ ] 
