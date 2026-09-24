@@ -1,0 +1,13 @@
+- [x] complete practice assessment and post -- delete old files
+- [ ] ch 1 assessment
+	- [ ] make sure each problem is different from the practice assessment
+	- [ ] print one
+	- [ ] take assessment yourself
+	- [ ] make any changes
+	- [ ] decide on points/rubric; update assessment with point values
+	- [ ] print them all
+- [ ] send email about monday's assessment
+	- [ ] what you can and can't use
+	- [ ] afternoon session
+- [ ] give feedback to active prelude group from students
+- [ ] set up gradescope
