@@ -6,12 +6,12 @@
 	- [ ] make any changes
 	- [ ] decide on points/rubric; update assessment with point values
 	- [ ] print them all
-- [ ] send email about monday's assessment
-	- [ ] what you can and can't use
-	- [ ] afternoon session
+- [x] send email about monday's assessment
+	- [x] what you can and can't use
+	- [x] afternoon session
 - [ ] give feedback to active prelude group from students
 - [ ] set up gradescope
-- [ ] submit teaching preferences
+- [x] submit teaching preferences
 	- [ ] math 65 (3) 
 	- [ ] math 70 (3) 
 	- [ ] math 75 (5) 
@@ -26,4 +26,4 @@
 	- [ ] math 115 (3)
 	- [ ] math 120 (3)
 	- [ ] math 125 (3)
-	- [ ] 
+	- [ ] math 130 (5)
