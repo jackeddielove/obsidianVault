@@ -11,10 +11,12 @@
             "id": "a118ee972bfb0f22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excel-pro-view",
+              "state": {
+                "file": "expenses.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "expenses"
             }
           }
         ]
@@ -186,15 +188,15 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "a118ee972bfb0f22",
   "lastOpenFiles": [
+    "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3545.jpg",
     "love-and-math/tutoring/summer plans.md",
     "love-and-math/tutoring/zeke/geometry/ch2-exercises",
     "love-and-math/tutoring/zeke/geometry/syllabus.pdf",
     "love-and-math/tutoring/zeke/geometry/Unconfirmed 51977.crdownload",
     "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3547.jpg",
     "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3546.jpg",
-    "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3545.jpg",
     "love-and-math/tutoring/students.md",
     "love-and-math/tutoring/zeke/geometry",
     "love-and-math/tutoring/zeke/calc-III/hw4/1.png",
