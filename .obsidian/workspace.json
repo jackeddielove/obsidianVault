@@ -18,8 +18,21 @@
               "icon": "lucide-file",
               "title": "aug-dec-2026-records"
             }
+          },
+          {
+            "id": "8b252f4c606b3dec",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "money-tracking.md"
+              },
+              "icon": "lucide-file",
+              "title": "money-tracking"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,8 +201,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6c525e8daba2bf54",
+  "active": "8b252f4c606b3dec",
   "lastOpenFiles": [
+    "love-and-math/legal-financial/aug-dec-2026-records.md",
+    "money-tracking.md",
     "expenses.md",
     "today.md",
     "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3545.jpg",
@@ -208,7 +223,6 @@
     "love-and-math/tutoring/zeke/syllabus.pdf",
     "love-and-math/tutoring/zeke/zeke.md",
     "future-tax-payment-plan.md",
-    "money-tracking.md",
     "ccsf/precalc/assessments/ch1/ch1-practice-assessment.pdf",
     "ccsf/precalc/assessments/ch1/ch1_assessment_practice (2).pdf",
     "ccsf/precalc/assessments/ch1/ch1-practice-8.png",
@@ -217,7 +231,6 @@
     "ccsf/precalc/assessments/ch1/ch1-practice-5.png",
     "ccsf/precalc/assessments/ch1/ch1-practice-4.png",
     "ccsf/precalc/assessments/ch1/ch1-practice-7.png",
-    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "ccsf/precalc/grades/9_18_canvas_grades.csv",
     "ccsf/precalc/grades/2026-09-18T1029_Grades-MATH_90-Precalculus_Algebra-S61.csv",
