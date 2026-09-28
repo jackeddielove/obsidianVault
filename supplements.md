@@ -2,6 +2,7 @@ systems of equations
 [la companion](https://runestone.academy/ns/books/published/la-companion/chap1.html)
 
 conic sections
+[APEX](https://runestone.academy/ns/books/published/APEX/sec_conic_sections.html)
 
 sequences and series
 [dmoi-4](https://runestone.academy/ns/books/published/dmoi-4/ch_sequences.html)
