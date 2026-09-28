@@ -31,8 +31,7 @@
               "title": "biz-expenses"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +200,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "ac6f35a81be77714",
+  "active": "fd02d984f2e34360",
   "lastOpenFiles": [
+    "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "money-tracking.md",
     "future-tax-payment-plan.md",
     "ccsf/precalc/grades/9_25.csv",
@@ -237,7 +237,6 @@
     "love-and-math/tutoring/zeke/zeke.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "love-and-math/copy/wyzant.md",
-    "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "covered ca.md",
     "ccsf/precalc/roster.md",
     "ideas.md",
