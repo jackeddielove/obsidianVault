@@ -31,7 +31,8 @@
               "title": "money-tracking"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +201,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "c0897051c0752a11",
+  "active": "75fdfff48efc6133",
   "lastOpenFiles": [
-    "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
+    "money-tracking.md",
     "ccsf/precalc/calendar_sep18.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "supplements.md",
