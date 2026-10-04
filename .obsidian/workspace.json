@@ -32,19 +32,21 @@
             }
           },
           {
-            "id": "bdf5f368c52144a8",
+            "id": "671e03591a7b8923",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "expenses.md"
+                "file": "home-design-studio.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "expenses"
+              "title": "home-design-studio"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,14 +215,17 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "75fdfff48efc6133",
+  "active": "671e03591a7b8923",
   "lastOpenFiles": [
+    "love-and-math/future/spaces.md",
+    "home-design-studio.md",
     "expenses.md",
+    "supplements.md",
+    "ideas.md",
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/precalc/calendar_sep18.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
-    "supplements.md",
     "future-tax-payment-plan.md",
     "ccsf/precalc/grades/9_25.csv",
     "ccsf/admin/admin.md",
@@ -253,13 +258,10 @@
     "love-and-math/copy/wyzant.md",
     "covered ca.md",
     "ccsf/precalc/roster.md",
-    "ideas.md",
     "math-travel/instructions.md",
     "math-travel/email.md",
     "guidance/insights.md",
     "ccsf/precalc/catalog-info.md",
-    "love-and-math/tutoring/student-resources/lou-extra-time.md",
-    "love-and-math/mailing-list.md",
-    "tabs.md"
+    "love-and-math/tutoring/student-resources/lou-extra-time.md"
   ]
 }
