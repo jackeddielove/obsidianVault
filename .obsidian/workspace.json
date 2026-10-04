@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,8 +213,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "bdf5f368c52144a8",
+  "active": "75fdfff48efc6133",
   "lastOpenFiles": [
+    "expenses.md",
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/precalc/calendar_sep18.md",
@@ -244,7 +245,6 @@
     "ccsf/precalc/assessments/ch1/New Folder With Items",
     "ccsf/precalc/assessments/ch1/SC-BAT756-M26092423480.pdf",
     "today.md",
-    "expenses.md",
     "love-and-math/tutoring/summer plans.md",
     "love-and-math/tutoring/students.md",
     "love-and-math/tutoring/fall-schedule.md",
