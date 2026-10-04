@@ -8,3 +8,5 @@ total safe operating boundary
 500 mm x 500 mm x 950 mm
 20" x 20" x 38"
 
+floorplan
+figma -> love-and-math -> team project -> other
