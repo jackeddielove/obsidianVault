@@ -45,6 +45,7 @@ P rose
 T anthony
 
 group 3
+emmanuel still separate/quiet--needs a different role?
 P alex
 R emmanual
 N elijah
@@ -53,6 +54,7 @@ T stephanie
 
 group 4
 Very quiet... did not assign roles... need help communicating
+working better together
 N david
 R gio
 T justin
@@ -61,8 +63,17 @@ R cayla
 P rae
 
 group 5
+cris kinda lagging on note-taking, feels separate from angel and anne (lio had to leave early)
 jaslene
 R, N cris
 suyi
 P angel
 T anne
+
+make descriptions for these roles and make rules to follow
+new roles (?)
+note-taker
+presenter
+technology
+research
+task manager
