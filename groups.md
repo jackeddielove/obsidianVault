@@ -27,39 +27,42 @@
 *lio*, *cayla*, *rose*
 
 90-100
-elisabeth, *stephanie*, *suyi*, anthony, rae, *alexa*, *angel*, *cody*, anne
+elisabeth, *stephanie*, *suyi*, *anthony*, *rae*, *alexa*, *angel*, *cody*, *anne*
 
 group1
-kristina
-jocelyn
+R kristina
+N jocelyn
 jeffrey
-alexa
-cody
+T alexa
+P cody
 
 group2
-jessica
+N jessica
 sakaa
-michael
-wilson
-rose
+R michael
+R wilson
+P rose
+T anthony
 
 group 3
-alex
-emmanual
-elijah
-jayden
-stephanie
+P alex
+R emmanual
+N elijah
+R jayden
+T stephanie
 
 group 4
-david
-gio
-justin
+Very quiet... did not assign roles... need help communicating
+N david
+R gio
+T justin
 penelope
-cayla
+R cayla
+P rae
 
 group 5
 jaslene
-cris
-lio
+R, N cris
 suyi
-angel
+P angel
+T anne
