@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "love-and-math/tutoring/students.md",
+                "file": "love-and-math/tutoring/student-resources/ronan-syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "students"
+              "title": "ronan-syllabus"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "groups"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,13 +218,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "f6e14dcb283b98e7",
+  "active": "c869b123065bc8cb",
   "lastOpenFiles": [
-    "love-and-math/copy/wyzant.md",
+    "love-and-math/tutoring/students.md",
     "groups.md",
+    "love-and-math/copy/wyzant.md",
     "love-and-math/tutoring/student-resources/ronan-syllabus.md",
     "syllabus.md",
-    "love-and-math/tutoring/students.md",
     "ccsf/precalc/calendar_sep18.md",
     "ccsf/precalc/supplemental-material.md",
     "today.md",
