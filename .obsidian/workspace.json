@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "wyzant"
             }
+          },
+          {
+            "id": "f6e14dcb283b98e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "groups.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "groups"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,8 +219,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "cc6d809edf82fd81",
+  "active": "f6e14dcb283b98e7",
   "lastOpenFiles": [
+    "love-and-math/copy/wyzant.md",
+    "groups.md",
     "love-and-math/tutoring/student-resources/ronan-syllabus.md",
     "syllabus.md",
     "love-and-math/tutoring/students.md",
@@ -247,11 +263,9 @@
     "love-and-math/tutoring/fall-schedule.md",
     "love-and-math/tutoring/zeke/zeke.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
-    "love-and-math/copy/wyzant.md",
     "covered ca.md",
     "ccsf/precalc/roster.md",
     "math-travel/instructions.md",
-    "math-travel/email.md",
-    "guidance/insights.md"
+    "math-travel/email.md"
   ]
 }
