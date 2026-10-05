@@ -29,23 +29,36 @@
 90-100
 elisabeth, *stephanie*, *suyi*, *anthony*, *rae*, *alexa*, *angel*, *cody*, *anne*
 
+Roles
+Notetaker
+Technology
+Researcher
+Presenter
+Task manager
+
+Rules
+No phones allowed
+Technology and Researchers must have computers
+Only Technology and Researchers can have computers
+Only notetaker can write
+Notetaker writes only on paper
+
 group1
-R kristina
-N jocelyn
-jeffrey
-T alexa
-P cody
+kristina - researcher
+jocelyn - notetaker
+jeffrey - 
+alexa - technology
+cody - presenter
 
 group2
-N jessica
+jessica - notetaker
 sakaa
-R michael
-R wilson
-P rose
-T anthony
+michael - researcher
+wilson - researcher
+rose - presenter
+anthony - technology
 
 group 3
-emmanuel still separate/quiet--needs a different role?
 P alex
 R emmanual
 N elijah
@@ -53,8 +66,6 @@ R jayden
 T stephanie
 
 group 4
-Very quiet... did not assign roles... need help communicating
-working better together
 N david
 R gio
 T justin
@@ -63,17 +74,10 @@ R cayla
 P rae
 
 group 5
-cris kinda lagging on note-taking, feels separate from angel and anne (lio had to leave early)
 jaslene
 R, N cris
 suyi
 P angel
 T anne
 
-make descriptions for these roles and make rules to follow
-new roles (?)
-note-taker
-presenter
-technology
-research
-task manager
+
