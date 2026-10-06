@@ -11,14 +11,12 @@
             "id": "9ad001533caee9f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "home-design-studio.md",
-                "mode": "source",
-                "source": false
+                "file": "love-and-math/tutoring/zeke/geometry/hw1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "home-design-studio"
+              "icon": "lucide-file-text",
+              "title": "hw1"
             }
           }
         ]
@@ -192,6 +190,8 @@
   },
   "active": "9ad001533caee9f2",
   "lastOpenFiles": [
+    "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3545.jpg",
+    "home-design-studio.md",
     "groups.md",
     "love-and-math/copy/wyzant.md",
     "love-and-math/tutoring/student-resources/ronan-syllabus.md",
@@ -200,7 +200,6 @@
     "ccsf/precalc/calendar_sep18.md",
     "ccsf/precalc/supplemental-material.md",
     "today.md",
-    "home-design-studio.md",
     "love-and-math/future/spaces.md",
     "expenses.md",
     "ideas.md",
@@ -236,7 +235,6 @@
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "covered ca.md",
     "ccsf/precalc/roster.md",
-    "math-travel/instructions.md",
-    "math-travel/email.md"
+    "math-travel/instructions.md"
   ]
 }
