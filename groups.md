@@ -44,41 +44,41 @@ Only notetaker can write
 Notetaker writes only on paper
 
 group1
-kristina - researcher
-jocelyn - notetaker
-jeffrey - 
-alexa - technology
-cody - presenter
+F kristina - researcher
+R jocelyn - notetaker
+N jeffrey - 
+T alexa - technology
+P cody - presenter
+sakaa
 
 group2
 jessica - notetaker
-sakaa
-michael - researcher
-wilson - researcher
-rose - presenter
-anthony - technology
+N elisabeth
+R michael - researcher
+R wilson - researcher
+T rose - presenter
+P anthony - technology
 
 group 3
-P alex
+N alex
 R emmanual
-N elijah
-R jayden
-T stephanie
+F elijah
+T jayden
+R stephanie
 
 group 4
-N david
-R gio
+R david
 T justin
-penelope
-R cayla
+N cayla
 P rae
+R jaslene
 
 group 5
-jaslene
-N cris
-suyi
+
+T cris
+N suyi
 P angel
-T anne
+F anne
 R lio
 
 
