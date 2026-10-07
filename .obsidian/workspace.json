@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "41315bb99879e05d",
+        "id": "28c5082fe0199129",
         "type": "tabs",
         "children": [
           {
-            "id": "9ad001533caee9f2",
+            "id": "4e8806956dbe006b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "love-and-math/tutoring/zeke/geometry/hw1.pdf"
+                "file": "groups.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "hw1"
+              "icon": "lucide-file",
+              "title": "groups"
             }
           }
         ]
@@ -188,8 +190,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "9ad001533caee9f2",
+  "active": "4e8806956dbe006b",
   "lastOpenFiles": [
+    "ccsf/precalc/calendar.png",
+    "ccsf/precalc/calendar_sep18.md",
+    "love-and-math/tutoring/zeke/geometry/hw1.pdf",
     "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3545.jpg",
     "home-design-studio.md",
     "groups.md",
@@ -197,7 +202,6 @@
     "love-and-math/tutoring/student-resources/ronan-syllabus.md",
     "love-and-math/tutoring/students.md",
     "syllabus.md",
-    "ccsf/precalc/calendar_sep18.md",
     "ccsf/precalc/supplemental-material.md",
     "today.md",
     "love-and-math/future/spaces.md",
@@ -225,10 +229,7 @@
     "ccsf/precalc/assessments/ch1/images/ch1-practice-2.png",
     "ccsf/precalc/assessments/ch1/images/ch1-practice-1.png",
     "ccsf/precalc/assessments/ch1/images",
-    "ccsf/precalc/assessments/ch1/New Folder With Items/ch1-practice-8.png",
-    "ccsf/precalc/assessments/ch1/New Folder With Items/ch1-practice-7.png",
     "ccsf/precalc/assessments/ch1/New Folder With Items",
-    "ccsf/precalc/assessments/ch1/SC-BAT756-M26092423480.pdf",
     "love-and-math/tutoring/summer plans.md",
     "love-and-math/tutoring/fall-schedule.md",
     "love-and-math/tutoring/zeke/zeke.md",

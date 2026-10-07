@@ -75,9 +75,10 @@ P rae
 
 group 5
 jaslene
-R, N cris
+N cris
 suyi
 P angel
 T anne
+R lio
 
 
