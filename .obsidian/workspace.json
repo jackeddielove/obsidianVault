@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "28c5082fe0199129",
+        "id": "863d43e0ec5fdc72",
         "type": "tabs",
         "children": [
           {
-            "id": "4e8806956dbe006b",
+            "id": "3f38e222ab912f08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "groups.md",
-                "mode": "source",
-                "source": false
+                "file": "ccsf/precalc/calendar.png"
               },
-              "icon": "lucide-file",
-              "title": "groups"
+              "icon": "lucide-image",
+              "title": "calendar"
             }
           }
         ]
@@ -190,14 +188,15 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "4e8806956dbe006b",
+  "active": "3f38e222ab912f08",
   "lastOpenFiles": [
+    "ccsf/precalc/catalog-info.md",
+    "groups.md",
     "ccsf/precalc/calendar.png",
     "ccsf/precalc/calendar_sep18.md",
     "love-and-math/tutoring/zeke/geometry/hw1.pdf",
     "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3545.jpg",
     "home-design-studio.md",
-    "groups.md",
     "love-and-math/copy/wyzant.md",
     "love-and-math/tutoring/student-resources/ronan-syllabus.md",
     "love-and-math/tutoring/students.md",
