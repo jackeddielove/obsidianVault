@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home-design-studio.md",
+                "file": "groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home-design-studio"
+              "title": "groups"
             }
           }
         ]
@@ -192,13 +192,13 @@
   },
   "active": "05101e946f51dd4e",
   "lastOpenFiles": [
+    "home-design-studio.md",
     "ccsf/precalc/calendar.png",
     "ccsf/precalc/catalog-info.md",
     "groups.md",
     "ccsf/precalc/calendar_sep18.md",
     "love-and-math/tutoring/zeke/geometry/hw1.pdf",
     "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3545.jpg",
-    "home-design-studio.md",
     "love-and-math/copy/wyzant.md",
     "love-and-math/tutoring/student-resources/ronan-syllabus.md",
     "love-and-math/tutoring/students.md",
