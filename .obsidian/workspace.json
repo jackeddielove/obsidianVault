@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "groups.md",
+                "file": "ccsf/admin/office-hours-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "groups"
+              "title": "office-hours-log"
+            }
+          },
+          {
+            "id": "8748673e95b77964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extra-assignments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "extra-assignments"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +205,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "05101e946f51dd4e",
+  "active": "8748673e95b77964",
   "lastOpenFiles": [
+    "ccsf/admin/office-hours-log.md",
+    "extra-assignments.md",
+    "groups.md",
     "ccsf/precalc/assessments/ch3/ch3_assessment_practice_v1.pdf",
     "ccsf/precalc/assessments/ch3/ch2_assessment_practice_v1.pdf",
     "ccsf/precalc/assessments/ch3/ch3-practice-1.png",
@@ -201,7 +219,6 @@
     "home-design-studio.md",
     "ccsf/precalc/calendar.png",
     "ccsf/precalc/catalog-info.md",
-    "groups.md",
     "ccsf/precalc/calendar_sep18.md",
     "love-and-math/tutoring/zeke/geometry/hw1.pdf",
     "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3545.jpg",
@@ -220,12 +237,10 @@
     "future-tax-payment-plan.md",
     "ccsf/precalc/grades/9_25.csv",
     "ccsf/admin/admin.md",
-    "ccsf/admin/office-hours-log.md",
     "ccsf/precalc/assessments/ch1/solutions.pdf",
     "ccsf/precalc/assessments/ch1/practice-assesments/ch1-practice-assessment.pdf",
     "ccsf/precalc/assessments/ch1/practice-assesments/1_1-1_7.pdf",
     "ccsf/precalc/assessments/ch1/practice-assesments/1_1-1_5.pdf",
-    "ccsf/precalc/assessments/ch1/practice-assesments",
     "ccsf/precalc/assessments/ch1/images/ch1-practice-8.png",
     "ccsf/precalc/assessments/ch1/images/ch1-practice-7.png",
     "ccsf/precalc/assessments/ch1/images/ch1-practice-6.png",
