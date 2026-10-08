@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "863d43e0ec5fdc72",
+        "id": "6b14803b45259e0f",
         "type": "tabs",
         "children": [
           {
-            "id": "3f38e222ab912f08",
+            "id": "05101e946f51dd4e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ccsf/precalc/calendar.png"
+                "file": "home-design-studio.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "calendar"
+              "icon": "lucide-file",
+              "title": "home-design-studio"
             }
           }
         ]
@@ -188,11 +190,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "3f38e222ab912f08",
+  "active": "05101e946f51dd4e",
   "lastOpenFiles": [
+    "ccsf/precalc/calendar.png",
     "ccsf/precalc/catalog-info.md",
     "groups.md",
-    "ccsf/precalc/calendar.png",
     "ccsf/precalc/calendar_sep18.md",
     "love-and-math/tutoring/zeke/geometry/hw1.pdf",
     "love-and-math/tutoring/zeke/geometry/ch2-exercises/IMG_3545.jpg",
@@ -234,7 +236,6 @@
     "love-and-math/tutoring/zeke/zeke.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "covered ca.md",
-    "ccsf/precalc/roster.md",
-    "math-travel/instructions.md"
+    "ccsf/precalc/roster.md"
   ]
 }
