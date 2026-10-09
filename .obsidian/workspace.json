@@ -79,7 +79,8 @@
               "title": "6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,7 +249,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "79dd3043842f19d8",
+  "active": "e7a221eff4bb9074",
   "lastOpenFiles": [
     "love-and-math/tutoring/caterina/october-6/2.png",
     "love-and-math/tutoring/caterina/october-6/3.png",
