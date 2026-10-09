@@ -79,8 +79,7 @@
               "title": "6"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,12 +248,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "2e4efcd1d6ca3ec9",
+  "active": "79dd3043842f19d8",
   "lastOpenFiles": [
-    "love-and-math/tutoring/caterina/october-6/5.png",
-    "love-and-math/tutoring/caterina/october-6/4.png",
-    "love-and-math/tutoring/caterina/october-6/3.png",
     "love-and-math/tutoring/caterina/october-6/2.png",
+    "love-and-math/tutoring/caterina/october-6/3.png",
+    "love-and-math/tutoring/caterina/october-6/4.png",
+    "love-and-math/tutoring/caterina/october-6/5.png",
+    "love-and-math/tutoring/caterina/october-6/6.png",
     "love-and-math/tutoring/caterina/october-6/1.png",
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
@@ -294,7 +294,6 @@
     "ccsf/precalc/assessments/ch1/practice-assesments/ch1-practice-assessment.pdf",
     "ccsf/precalc/assessments/ch1/practice-assesments/1_1-1_7.pdf",
     "ccsf/precalc/assessments/ch1/images/ch1-practice-8.png",
-    "ccsf/precalc/assessments/ch1/images/ch1-practice-7.png",
     "love-and-math/tutoring/summer plans.md",
     "love-and-math/tutoring/fall-schedule.md"
   ]
