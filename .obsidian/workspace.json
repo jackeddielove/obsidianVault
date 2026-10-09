@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7b34d8b17e29fe83",
+        "id": "23f6565790ba7e51",
         "type": "tabs",
         "children": [
           {
-            "id": "79dd3043842f19d8",
+            "id": "d54d5c73ea27824e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excel-pro-view",
               "state": {
-                "file": "love-and-math/tutoring/caterina/october-6/1.png"
+                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
               },
-              "icon": "lucide-image",
-              "title": "1"
-            }
-          },
-          {
-            "id": "e7a221eff4bb9074",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "love-and-math/tutoring/caterina/october-6/2.png"
-              },
-              "icon": "lucide-image",
-              "title": "2"
-            }
-          },
-          {
-            "id": "97abf8251ee61f22",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "love-and-math/tutoring/caterina/october-6/3.png"
-              },
-              "icon": "lucide-image",
-              "title": "3"
-            }
-          },
-          {
-            "id": "56a7c5195d2449dc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "love-and-math/tutoring/caterina/october-6/4.png"
-              },
-              "icon": "lucide-image",
-              "title": "4"
-            }
-          },
-          {
-            "id": "d1cf095031e3598f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "love-and-math/tutoring/caterina/october-6/5.png"
-              },
-              "icon": "lucide-image",
-              "title": "5"
-            }
-          },
-          {
-            "id": "2e4efcd1d6ca3ec9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "love-and-math/tutoring/caterina/october-6/6.png"
-              },
-              "icon": "lucide-image",
-              "title": "6"
+              "icon": "lucide-file",
+              "title": "aug-dec-2026-records"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,13 +188,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "e7a221eff4bb9074",
+  "active": "d54d5c73ea27824e",
   "lastOpenFiles": [
-    "love-and-math/tutoring/caterina/october-6/2.png",
-    "love-and-math/tutoring/caterina/october-6/3.png",
-    "love-and-math/tutoring/caterina/october-6/4.png",
-    "love-and-math/tutoring/caterina/october-6/5.png",
     "love-and-math/tutoring/caterina/october-6/6.png",
+    "love-and-math/tutoring/caterina/october-6/5.png",
+    "love-and-math/tutoring/caterina/october-6/4.png",
+    "love-and-math/tutoring/caterina/october-6/3.png",
+    "love-and-math/tutoring/caterina/october-6/2.png",
     "love-and-math/tutoring/caterina/october-6/1.png",
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
