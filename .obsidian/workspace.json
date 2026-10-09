@@ -4,34 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "ebacdc2f19d8e2f2",
+        "id": "7b34d8b17e29fe83",
         "type": "tabs",
         "children": [
           {
-            "id": "f7ce1c109b885786",
+            "id": "79dd3043842f19d8",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "image",
               "state": {
-                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
+                "file": "love-and-math/tutoring/caterina/october-6/1.png"
               },
-              "icon": "lucide-file",
-              "title": "aug-dec-2026-records"
+              "icon": "lucide-image",
+              "title": "1"
             }
           },
           {
-            "id": "3f09dcb1a5b5bf63",
+            "id": "e7a221eff4bb9074",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "image",
               "state": {
-                "file": "love-and-math/legal-financial/jan-jul-2026-records.md"
+                "file": "love-and-math/tutoring/caterina/october-6/2.png"
               },
-              "icon": "lucide-file",
-              "title": "jan-jul-2026-records"
+              "icon": "lucide-image",
+              "title": "2"
+            }
+          },
+          {
+            "id": "97abf8251ee61f22",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "love-and-math/tutoring/caterina/october-6/3.png"
+              },
+              "icon": "lucide-image",
+              "title": "3"
+            }
+          },
+          {
+            "id": "56a7c5195d2449dc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "love-and-math/tutoring/caterina/october-6/4.png"
+              },
+              "icon": "lucide-image",
+              "title": "4"
+            }
+          },
+          {
+            "id": "d1cf095031e3598f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "love-and-math/tutoring/caterina/october-6/5.png"
+              },
+              "icon": "lucide-image",
+              "title": "5"
+            }
+          },
+          {
+            "id": "2e4efcd1d6ca3ec9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "love-and-math/tutoring/caterina/october-6/6.png"
+              },
+              "icon": "lucide-image",
+              "title": "6"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -200,10 +249,16 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "f7ce1c109b885786",
+  "active": "2e4efcd1d6ca3ec9",
   "lastOpenFiles": [
-    "love-and-math/legal-financial/jan-jul-2026-records.md",
+    "love-and-math/tutoring/caterina/october-6/5.png",
+    "love-and-math/tutoring/caterina/october-6/4.png",
+    "love-and-math/tutoring/caterina/october-6/3.png",
+    "love-and-math/tutoring/caterina/october-6/2.png",
+    "love-and-math/tutoring/caterina/october-6/1.png",
+    "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
+    "love-and-math/legal-financial/jan-jul-2026-records.md",
     "Excel 2026-10-09 08.40.17.univer.md",
     "love-and-math/website-about-text.md",
     "ccsf/admin/office-hours-log.md",
@@ -231,7 +286,6 @@
     "love-and-math/future/spaces.md",
     "expenses.md",
     "ideas.md",
-    "money-tracking.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "future-tax-payment-plan.md",
     "ccsf/precalc/grades/9_25.csv",
@@ -241,12 +295,7 @@
     "ccsf/precalc/assessments/ch1/practice-assesments/1_1-1_7.pdf",
     "ccsf/precalc/assessments/ch1/images/ch1-practice-8.png",
     "ccsf/precalc/assessments/ch1/images/ch1-practice-7.png",
-    "ccsf/precalc/assessments/ch1/images/ch1-practice-6.png",
-    "ccsf/precalc/assessments/ch1/images/ch1-practice-5.png",
-    "ccsf/precalc/assessments/ch1/images/ch1-practice-4.png",
-    "ccsf/precalc/assessments/ch1/images/ch1-practice-3.png",
     "love-and-math/tutoring/summer plans.md",
-    "love-and-math/tutoring/fall-schedule.md",
-    "love-and-math/tutoring/zeke/zeke.md"
+    "love-and-math/tutoring/fall-schedule.md"
   ]
 }
