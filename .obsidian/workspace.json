@@ -18,6 +18,18 @@
               "icon": "lucide-file",
               "title": "aug-dec-2026-records"
             }
+          },
+          {
+            "id": "8e27b8ec3fee20aa",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "money-tracking.md"
+              },
+              "icon": "lucide-file",
+              "title": "money-tracking"
+            }
           }
         ]
       }
@@ -190,14 +202,14 @@
   },
   "active": "d54d5c73ea27824e",
   "lastOpenFiles": [
+    "money-tracking.md",
+    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/tutoring/caterina/october-6/6.png",
     "love-and-math/tutoring/caterina/october-6/5.png",
     "love-and-math/tutoring/caterina/october-6/4.png",
     "love-and-math/tutoring/caterina/october-6/3.png",
     "love-and-math/tutoring/caterina/october-6/2.png",
     "love-and-math/tutoring/caterina/october-6/1.png",
-    "money-tracking.md",
-    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "Excel 2026-10-09 08.40.17.univer.md",
     "love-and-math/website-about-text.md",
@@ -233,7 +245,6 @@
     "ccsf/precalc/assessments/ch1/solutions.pdf",
     "ccsf/precalc/assessments/ch1/practice-assesments/ch1-practice-assessment.pdf",
     "ccsf/precalc/assessments/ch1/practice-assesments/1_1-1_7.pdf",
-    "ccsf/precalc/assessments/ch1/images/ch1-practice-8.png",
     "love-and-math/tutoring/summer plans.md",
     "love-and-math/tutoring/fall-schedule.md"
   ]
