@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28b2af1e5a14fd57",
+        "id": "aa5b0594279343b7",
         "type": "tabs",
         "children": [
           {
-            "id": "8f071250db8e6989",
+            "id": "d47773c5ca5eb2eb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.29092407226562
+    "width": 318.3341064453125
   },
   "right": {
     "id": "af53f55ba7021ae7",
@@ -186,8 +186,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "8f071250db8e6989",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
+    "love-and-math/legal-financial/business-receipts/printer-cartridge-5.pdf",
     "expenses.md",
     "love-and-math/legal-financial/business-receipts/geometry-book.pdf",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
