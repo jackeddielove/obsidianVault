@@ -11,10 +11,12 @@
             "id": "d47773c5ca5eb2eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "love-and-math/tutoring/caterina/october-9/7.png"
+              },
+              "icon": "lucide-image",
+              "title": "7"
             }
           }
         ]
@@ -186,8 +188,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "d47773c5ca5eb2eb",
   "lastOpenFiles": [
+    "love-and-math/tutoring/zeke/geometry/hw2.pdf",
+    "love-and-math/tutoring/zeke/geometry/hw1.pdf",
+    "love-and-math/legal-financial/business-receipts/printer-cartridge-5.pdf",
     "love-and-math/tutoring/india/indias-test/IMG_7261.HEIC",
     "love-and-math/tutoring/india/indias-test/IMG_7260.HEIC",
     "love-and-math/tutoring/india/indias-test/IMG_7259.HEIC",
@@ -196,9 +201,6 @@
     "love-and-math/tutoring/india/indias-test/IMG_7256.HEIC",
     "love-and-math/tutoring/india/indias-test",
     "love-and-math/tutoring/india/New Folder With Items/IMG_7261.HEIC",
-    "love-and-math/tutoring/india/New Folder With Items/IMG_7260.HEIC",
-    "love-and-math/tutoring/india/New Folder With Items/IMG_7259.HEIC",
-    "love-and-math/tutoring/india/New Folder With Items/IMG_7258.HEIC",
     "love-and-math/tutoring/india/india-worksheet-2.png",
     "love-and-math/tutoring/india/india-worksheet-1.png",
     "expenses.md",
