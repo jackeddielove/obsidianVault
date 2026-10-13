@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "aa5b0594279343b7",
+        "id": "59f63a31cdfe7e8d",
         "type": "tabs",
         "children": [
           {
-            "id": "d47773c5ca5eb2eb",
+            "id": "544de8cc51042d5a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "love-and-math/tutoring/caterina/october-9/7.png"
+                "file": "love-and-math/tutoring/zeke/geometry/hw2.pdf"
               },
-              "icon": "lucide-image",
-              "title": "7"
+              "icon": "lucide-file-text",
+              "title": "hw2"
             }
           }
         ]
@@ -188,8 +188,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "d47773c5ca5eb2eb",
+  "active": "544de8cc51042d5a",
   "lastOpenFiles": [
+    "love-and-math/tutoring/caterina/october-9/7.png",
     "love-and-math/tutoring/zeke/geometry/hw2.pdf",
     "love-and-math/tutoring/zeke/geometry/hw1.pdf",
     "love-and-math/legal-financial/business-receipts/printer-cartridge-5.pdf",
@@ -200,7 +201,6 @@
     "love-and-math/tutoring/india/indias-test/IMG_7257.HEIC",
     "love-and-math/tutoring/india/indias-test/IMG_7256.HEIC",
     "love-and-math/tutoring/india/indias-test",
-    "love-and-math/tutoring/india/New Folder With Items/IMG_7261.HEIC",
     "love-and-math/tutoring/india/india-worksheet-2.png",
     "love-and-math/tutoring/india/india-worksheet-1.png",
     "expenses.md",
