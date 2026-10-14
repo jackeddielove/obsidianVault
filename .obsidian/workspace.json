@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "59f63a31cdfe7e8d",
+        "id": "7f267210c347b187",
         "type": "tabs",
         "children": [
           {
-            "id": "544de8cc51042d5a",
+            "id": "408e32efe99d92dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/zeke/geometry/hw2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "hw2"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,10 +186,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "544de8cc51042d5a",
+  "active": "408e32efe99d92dc",
   "lastOpenFiles": [
-    "love-and-math/tutoring/caterina/october-9/7.png",
+    "money-tracking.md",
     "love-and-math/tutoring/zeke/geometry/hw2.pdf",
+    "love-and-math/tutoring/caterina/october-9/7.png",
     "love-and-math/tutoring/zeke/geometry/hw1.pdf",
     "love-and-math/legal-financial/business-receipts/printer-cartridge-5.pdf",
     "love-and-math/tutoring/india/indias-test/IMG_7261.HEIC",
@@ -207,7 +206,6 @@
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
-    "money-tracking.md",
     "love-and-math/tutoring/caterina/october-6/6.png",
     "love-and-math/tutoring/caterina/october-6/5.png",
     "love-and-math/tutoring/caterina/october-6/4.png",
@@ -220,7 +218,6 @@
     "ccsf/extra-assignments.md",
     "ccsf/precalc/groups.md",
     "ccsf/precalc/assessments/ch3/ch3-practice-1.png",
-    "ccsf/precalc/assessments/ch3/Screenshot 2026-10-08 at 11.28.37 AM.png",
     "home-design-studio.md",
     "ccsf/precalc/catalog-info.md",
     "ccsf/precalc/calendar_sep18.md",
