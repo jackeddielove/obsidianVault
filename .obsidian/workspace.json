@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f267210c347b187",
+        "id": "55bd4f1aedbace2f",
         "type": "tabs",
         "children": [
           {
-            "id": "408e32efe99d92dc",
+            "id": "3ba8d70707a3bbd7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ccsf/precalc/assessments/ch3/ch3_assessment_practice_v1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ch3_assessment_practice_v1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,7 +186,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "408e32efe99d92dc",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
     "ccsf/precalc/assessments/ch3/ch3-practice-1.png",
     "ccsf/precalc/assessments/ch3/ch3_assessment_practice_v1.pdf",
