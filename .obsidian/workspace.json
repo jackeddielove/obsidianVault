@@ -11,10 +11,12 @@
             "id": "cda8756944a9614a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "ccsf/precalc/calendar.png"
+              },
+              "icon": "lucide-image",
+              "title": "calendar"
             }
           }
         ]
@@ -186,11 +188,14 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "cda8756944a9614a",
   "lastOpenFiles": [
+    "ccsf/admin/union-membership.pdf",
+    "ccsf/admin/form.pdf",
+    "ccsf/form.pdf",
+    "ccsf/admin/office-hours-log.md",
     "ccsf/admin/office-hours-sumbission-form.pdf",
     "ccsf/precalc/calendar.png",
-    "ccsf/admin/office-hours-log.md",
     "ccsf/precalc/catalog-info.md",
     "ccsf/admin/admin.md",
     "love-and-math/tutoring/caterina/october-15/10.png",
@@ -211,9 +216,6 @@
     "love-and-math/tutoring/zeke/geometry/hw1.pdf",
     "love-and-math/legal-financial/business-receipts/printer-cartridge-5.pdf",
     "love-and-math/tutoring/india/indias-test/IMG_7261.HEIC",
-    "love-and-math/tutoring/india/indias-test/IMG_7260.HEIC",
-    "love-and-math/tutoring/india/indias-test/IMG_7259.HEIC",
-    "love-and-math/tutoring/india/indias-test/IMG_7258.HEIC",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
