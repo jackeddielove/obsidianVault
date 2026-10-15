@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55bd4f1aedbace2f",
+        "id": "aed88eec23d8d605",
         "type": "tabs",
         "children": [
           {
-            "id": "3ba8d70707a3bbd7",
+            "id": "cda8756944a9614a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,6 +188,11 @@
   },
   "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
+    "ccsf/admin/office-hours-sumbission-form.pdf",
+    "ccsf/precalc/calendar.png",
+    "ccsf/admin/office-hours-log.md",
+    "ccsf/precalc/catalog-info.md",
+    "ccsf/admin/admin.md",
     "love-and-math/tutoring/caterina/october-15/10.png",
     "love-and-math/tutoring/caterina/october-15/9.png",
     "love-and-math/tutoring/caterina/october-15/8.png",
@@ -197,8 +202,6 @@
     "love-and-math/tutoring/caterina/october-15/4.png",
     "love-and-math/tutoring/caterina/october-15/3.png",
     "love-and-math/tutoring/caterina/october-15/2.png",
-    "love-and-math/tutoring/caterina/october-15/1.png",
-    "love-and-math/tutoring/caterina/october-15/Screenshot 2026-10-15 at 11.19.43 AM.png",
     "love-and-math/tutoring/caterina/october-15",
     "love-and-math/tutoring/caterina/New Folder With Items",
     "ccsf/precalc/assessments/ch3/ch3_assessment_practice_v1.pdf",
@@ -216,11 +219,9 @@
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "Excel 2026-10-09 08.40.17.univer.md",
     "love-and-math/website-about-text.md",
-    "ccsf/admin/office-hours-log.md",
     "ccsf/extra-assignments.md",
     "ccsf/precalc/groups.md",
     "home-design-studio.md",
-    "ccsf/precalc/catalog-info.md",
     "ccsf/precalc/calendar_sep18.md",
     "love-and-math/copy/wyzant.md",
     "love-and-math/tutoring/student-resources/ronan-syllabus.md",
@@ -231,7 +232,6 @@
     "love-and-math/future/spaces.md",
     "ideas.md",
     "future-tax-payment-plan.md",
-    "ccsf/admin/admin.md",
     "love-and-math/tutoring/summer plans.md",
     "love-and-math/tutoring/fall-schedule.md"
   ]
