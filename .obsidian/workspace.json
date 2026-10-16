@@ -11,13 +11,28 @@
             "id": "76c5571ffb8cc06a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excel-pro-view",
+              "state": {
+                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "aug-dec-2026-records"
+            }
+          },
+          {
+            "id": "2e01cac1df820049",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "money-tracking.md"
+              },
+              "icon": "lucide-file",
+              "title": "money-tracking"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +201,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "76c5571ffb8cc06a",
+  "active": "2e01cac1df820049",
   "lastOpenFiles": [
+    "love-and-math/legal-financial/aug-dec-2026-records.md",
+    "money-tracking.md",
     "love-and-math/tutoring/india/worksheet-for-india.pdf",
     "ccsf/precalc/calendar.png",
     "ccsf/admin/union-membership.pdf",
@@ -210,13 +227,10 @@
     "love-and-math/tutoring/caterina/New Folder With Items",
     "ccsf/precalc/assessments/ch3/ch3_assessment_practice_v1.pdf",
     "expenses.md",
-    "money-tracking.md",
     "love-and-math/tutoring/zeke/geometry/hw2.pdf",
     "love-and-math/tutoring/zeke/geometry/hw1.pdf",
-    "love-and-math/legal-financial/business-receipts/printer-cartridge-5.pdf",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
-    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "Excel 2026-10-09 08.40.17.univer.md",
     "love-and-math/website-about-text.md",
     "ccsf/extra-assignments.md",
