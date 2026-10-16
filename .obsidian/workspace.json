@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7858d30215aa0336",
+        "id": "9e33646ad55ec8cb",
         "type": "tabs",
         "children": [
           {
-            "id": "918273b614229704",
+            "id": "76c5571ffb8cc06a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/india/worksheet-for-india.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "worksheet-for-india"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,8 +186,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "918273b614229704",
+  "active": "76c5571ffb8cc06a",
   "lastOpenFiles": [
+    "love-and-math/tutoring/india/worksheet-for-india.pdf",
     "ccsf/precalc/calendar.png",
     "ccsf/admin/union-membership.pdf",
     "ccsf/admin/form.pdf",
