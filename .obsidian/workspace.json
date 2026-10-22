@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c8e83161d0b64fce",
+        "id": "b6ebd328656c5ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "a83e454bc66542c6",
+            "id": "450e8aef0cc1d44f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/caterina/resources/sample-test.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "sample-test"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,8 +186,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "a83e454bc66542c6",
+  "active": "450e8aef0cc1d44f",
   "lastOpenFiles": [
+    "ccsf/admin/office-hours-log.md",
+    "love-and-math/tutoring/caterina/resources/sample-test.pdf",
     "love-and-math/tutoring/caterina/october-22/6.png",
     "love-and-math/tutoring/caterina/october-22/5.png",
     "love-and-math/tutoring/caterina/october-22/4.png",
@@ -200,10 +200,8 @@
     "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.46 AM.png",
     "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.36 AM.png",
     "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.14 AM.png",
-    "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.03 AM.png",
     "love-and-math/tutoring/caterina/october-22",
     "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
-    "love-and-math/tutoring/caterina/resources/sample-test.pdf",
     "love-and-math/tutoring/caterina/resources/results-3.pdf",
     "love-and-math/tutoring/caterina/resources/Green, Caterina Wonderlic 10.15.26.pdf",
     "love-and-math/tutoring/caterina/resources/results-2-3.heic",
@@ -213,7 +211,6 @@
     "love-and-math/tutoring/caterina/resources/IMG_8744.heic",
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
-    "ccsf/admin/office-hours-log.md",
     "ccsf/precalc/catalog-info.md",
     "ccsf/admin/admin.md",
     "expenses.md",

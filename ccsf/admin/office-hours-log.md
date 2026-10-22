@@ -5,7 +5,7 @@ thursday sep 24, 12-1: 1hr
 thursday oct 1, 1230-130: 1hr
 thursday oct 8, 12-1: 1hr
 thursday oct 15, 12-1: 1hr
-thursday oct 22
+thursday oct 22, 12:15-1:15: 1 hr
 thursday oct 29
 thursday nov 5
 thursday nov 12
