@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf"
+                "file": "love-and-math/tutoring/caterina/resources/sample-test.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "geometry-workbook"
+              "title": "sample-test"
             }
           }
         ]
@@ -190,9 +190,9 @@
   },
   "active": "a83e454bc66542c6",
   "lastOpenFiles": [
+    "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
     "love-and-math/tutoring/caterina/resources/sample-test.pdf",
     "love-and-math/tutoring/caterina/resources/results-3.pdf",
-    "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
     "love-and-math/tutoring/caterina/resources/Green, Caterina Wonderlic 10.15.26.pdf",
     "love-and-math/tutoring/caterina/resources/results-2-3.heic",
     "love-and-math/tutoring/caterina/resources/results-2-2.heic",
