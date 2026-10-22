@@ -11,10 +11,12 @@
             "id": "a83e454bc66542c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "geometry-workbook"
             }
           }
         ]
@@ -186,9 +188,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "a83e454bc66542c6",
   "lastOpenFiles": [
+    "love-and-math/tutoring/caterina/resources/sample-test.pdf",
     "love-and-math/tutoring/caterina/resources/results-3.pdf",
+    "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
     "love-and-math/tutoring/caterina/resources/Green, Caterina Wonderlic 10.15.26.pdf",
     "love-and-math/tutoring/caterina/resources/results-2-3.heic",
     "love-and-math/tutoring/caterina/resources/results-2-2.heic",
@@ -196,9 +200,7 @@
     "love-and-math/tutoring/caterina/resources/IMG_8742.heic",
     "love-and-math/tutoring/caterina/resources/IMG_8744.heic",
     "love-and-math/tutoring/caterina/resources/FullSizeRender-preview.HEIC",
-    "love-and-math/tutoring/caterina/resources/sample-test.pdf",
     "love-and-math/tutoring/caterina/resources/results-1-2.HEIC",
-    "love-and-math/tutoring/caterina/resources/results-1-1.HEIC",
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/precalc/calendar.png",
