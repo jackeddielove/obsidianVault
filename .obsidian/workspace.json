@@ -13,10 +13,10 @@
             "state": {
               "type": "excel-pro-view",
               "state": {
-                "file": "expenses.md"
+                "file": "money-tracking.md"
               },
               "icon": "lucide-file",
-              "title": "expenses"
+              "title": "money-tracking"
             }
           }
         ]
@@ -190,6 +190,7 @@
   },
   "active": "510cbca83ea1c146",
   "lastOpenFiles": [
+    "expenses.md",
     "money-tracking.md",
     "ccsf/precalc/catalog-info.md",
     "ccsf/precalc/calendar.png",
@@ -217,7 +218,6 @@
     "love-and-math/tutoring/caterina/resources/results-2-3.heic",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/admin/admin.md",
-    "expenses.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "Excel 2026-10-09 08.40.17.univer.md",
