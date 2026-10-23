@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6ee13f26a75b89ad",
+        "id": "d99a1da6d22f5a92",
         "type": "tabs",
         "children": [
           {
-            "id": "f0729d8d05877d10",
+            "id": "0e166d0a7e6eef24",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ccsf/precalc/assessments/ch3/ch3-practice.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ch3-practice"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,12 +186,15 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "f0729d8d05877d10",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
+    "ccsf/precalc/calendar.png",
+    "ccsf/extra-assignments.md",
+    "ccsf/precalc/supplemental-material.md",
+    "ccsf/precalc/assessments/ch3/ch3-practice.pdf",
     "money-tracking.md",
     "expenses.md",
     "ccsf/precalc/catalog-info.md",
-    "ccsf/precalc/calendar.png",
     "ccsf/pure-pre-calculus.md",
     "love-and-math/tutoring/jackson/unit-2-quiz.pdf",
     "love-and-math/tutoring/jackson/communication-practice.pdf",
@@ -215,14 +216,12 @@
     "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
     "love-and-math/tutoring/caterina/resources/results-3.pdf",
     "love-and-math/tutoring/caterina/resources/Green, Caterina Wonderlic 10.15.26.pdf",
-    "love-and-math/tutoring/caterina/resources/results-2-3.heic",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/admin/admin.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "Excel 2026-10-09 08.40.17.univer.md",
     "love-and-math/website-about-text.md",
-    "ccsf/extra-assignments.md",
     "ccsf/precalc/groups.md",
     "home-design-studio.md",
     "ccsf/precalc/calendar_sep18.md",
@@ -230,7 +229,6 @@
     "love-and-math/tutoring/student-resources/ronan-syllabus.md",
     "love-and-math/tutoring/students.md",
     "syllabus.md",
-    "ccsf/precalc/supplemental-material.md",
     "today.md",
     "love-and-math/future/spaces.md",
     "ideas.md",
