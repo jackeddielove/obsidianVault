@@ -11,10 +11,12 @@
             "id": "47c6415d6d67258f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/tutoring/zeke/linear-algebra/text.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "text"
             }
           }
         ]
