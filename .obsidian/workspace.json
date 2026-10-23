@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "evaluation-feedback"
             }
+          },
+          {
+            "id": "e74f024835fef0fe",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ccsf/precalc/calendar.png"
+              },
+              "icon": "lucide-image",
+              "title": "calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,13 +203,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "e74f024835fef0fe",
   "lastOpenFiles": [
     "ccsf/precalc/evaluation-feedback.md",
+    "ccsf/precalc/calendar.png",
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/precalc/supplemental-material.md",
-    "ccsf/precalc/calendar.png",
     "ccsf/extra-assignments.md",
     "ccsf/precalc/assessments/ch3/ch3-practice.pdf",
     "expenses.md",
@@ -236,7 +249,6 @@
     "syllabus.md",
     "today.md",
     "love-and-math/future/spaces.md",
-    "ideas.md",
-    "future-tax-payment-plan.md"
+    "ideas.md"
   ]
 }
