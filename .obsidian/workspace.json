@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4e8023fbcc11f1b0",
+        "id": "dafcecfa1c97e070",
         "type": "tabs",
         "children": [
           {
-            "id": "cc81f9eb325816fe",
+            "id": "47c6415d6d67258f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ccsf/precalc/evaluation-feedback.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "evaluation-feedback"
-            }
-          },
-          {
-            "id": "e74f024835fef0fe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "ccsf/precalc/calendar.png"
-              },
-              "icon": "lucide-image",
-              "title": "calendar"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +186,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "e74f024835fef0fe",
+  "active": "47c6415d6d67258f",
   "lastOpenFiles": [
-    "ccsf/precalc/evaluation-feedback.md",
     "ccsf/precalc/calendar.png",
+    "ccsf/precalc/evaluation-feedback.md",
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/precalc/supplemental-material.md",
