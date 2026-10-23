@@ -1,7 +1,8 @@
 
-9 chapters
-47 sections
+9 topics
+47 subtopics
 
+Topic number: number of subtopics
 1: 4
 2: 7
 3: 6
@@ -13,8 +14,7 @@
 9: 5
 
 26 classes, 3 hours 30 minutes each
-
-Roughly 
+Roughly 2 sections per class.
 
 1. Analytic geometry
     1. Graphs of equations in two variables
@@ -72,3 +72,4 @@ Roughly
     3. geometric sequences and series
     4. Introduction to summation notation
     5. Introduction to the Binomial Theorem and Pascal's triangle
+
