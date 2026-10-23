@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c0028701c4a97ffe",
+        "id": "6ee13f26a75b89ad",
         "type": "tabs",
         "children": [
           {
-            "id": "510cbca83ea1c146",
+            "id": "f0729d8d05877d10",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "pdf",
               "state": {
-                "file": "money-tracking.md"
+                "file": "ccsf/precalc/assessments/ch3/ch3-practice.pdf"
               },
-              "icon": "lucide-file",
-              "title": "money-tracking"
+              "icon": "lucide-file-text",
+              "title": "ch3-practice"
             }
           }
         ]
@@ -188,10 +188,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "510cbca83ea1c146",
+  "active": "f0729d8d05877d10",
   "lastOpenFiles": [
-    "expenses.md",
     "money-tracking.md",
+    "expenses.md",
     "ccsf/precalc/catalog-info.md",
     "ccsf/precalc/calendar.png",
     "ccsf/pure-pre-calculus.md",
