@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dafcecfa1c97e070",
+        "id": "1c589088bd41d881",
         "type": "tabs",
         "children": [
           {
-            "id": "47c6415d6d67258f",
+            "id": "1d522f8e2eed5b6d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/zeke/linear-algebra/text.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "text"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,7 +186,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "47c6415d6d67258f",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
     "ccsf/precalc/calendar.png",
     "ccsf/precalc/evaluation-feedback.md",
