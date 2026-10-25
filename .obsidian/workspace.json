@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1c589088bd41d881",
+        "id": "19979c688f146595",
         "type": "tabs",
         "children": [
           {
-            "id": "1d522f8e2eed5b6d",
+            "id": "ec8b52b42fcd9e0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excel-pro-view",
+              "state": {
+                "file": "money-tracking.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "money-tracking"
             }
           }
         ]
@@ -79,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.3341064453125
+    "width": 237.0916748046875
   },
   "right": {
     "id": "af53f55ba7021ae7",
@@ -186,13 +188,14 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "ec8b52b42fcd9e0a",
   "lastOpenFiles": [
+    "money-tracking.md",
+    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "ccsf/precalc/assessments/ch3/ch3-assessment.pdf",
     "ccsf/precalc/assessments/ch3/chapter_3_assessment (1).pdf",
     "ccsf/precalc/calendar.png",
     "ccsf/precalc/evaluation-feedback.md",
-    "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/precalc/supplemental-material.md",
     "ccsf/extra-assignments.md",
@@ -217,8 +220,6 @@
     "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.46 AM.png",
     "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.36 AM.png",
     "love-and-math/tutoring/caterina/october-22",
-    "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
-    "love-and-math/tutoring/caterina/resources/results-3.pdf",
     "ccsf/admin/admin.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
