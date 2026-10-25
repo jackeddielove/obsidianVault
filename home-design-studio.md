@@ -10,8 +10,6 @@ $2500
 20" x 20" x 38"
 $750
 
-certified refurbished mac
-$3500
 
 floorplan
 figma -> love-and-math -> team project -> other

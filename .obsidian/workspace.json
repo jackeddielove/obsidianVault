@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "19979c688f146595",
+        "id": "e0cc908574e58cfe",
         "type": "tabs",
         "children": [
           {
-            "id": "ec8b52b42fcd9e0a",
+            "id": "332a783e7831e9a6",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
-              "state": {
-                "file": "money-tracking.md"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "money-tracking"
+              "title": "New tab"
             }
           }
         ]
@@ -188,12 +186,17 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "ec8b52b42fcd9e0a",
+  "active": "332a783e7831e9a6",
   "lastOpenFiles": [
+    "tax-stuff/2026-taxes-notes.md",
+    "tax-stuff",
+    "home-design-studio.md",
+    "tax-stuff/irs-payment-plan.pdf",
+    "tax-stuff/future-tax-payment-plan.md",
     "money-tracking.md",
-    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "ccsf/precalc/assessments/ch3/ch3-assessment.pdf",
     "ccsf/precalc/assessments/ch3/chapter_3_assessment (1).pdf",
+    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "ccsf/precalc/calendar.png",
     "ccsf/precalc/evaluation-feedback.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
@@ -209,7 +212,6 @@
     "love-and-math/tutoring/jackson/unit-2-extra-practice.pdf",
     "love-and-math/tutoring/jackson",
     "ccsf/admin/office-hours-log.md",
-    "love-and-math/tutoring/caterina/resources/sample-test.pdf",
     "love-and-math/tutoring/caterina/october-22/6.png",
     "love-and-math/tutoring/caterina/october-22/5.png",
     "love-and-math/tutoring/caterina/october-22/4.png",
@@ -219,21 +221,17 @@
     "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.59 AM.png",
     "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.46 AM.png",
     "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.36 AM.png",
-    "love-and-math/tutoring/caterina/october-22",
     "ccsf/admin/admin.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "Excel 2026-10-09 08.40.17.univer.md",
     "love-and-math/website-about-text.md",
     "ccsf/precalc/groups.md",
-    "home-design-studio.md",
     "ccsf/precalc/calendar_sep18.md",
     "love-and-math/copy/wyzant.md",
     "love-and-math/tutoring/student-resources/ronan-syllabus.md",
     "love-and-math/tutoring/students.md",
     "syllabus.md",
-    "today.md",
-    "love-and-math/future/spaces.md",
-    "ideas.md"
+    "today.md"
   ]
 }
