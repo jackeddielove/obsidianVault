@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e0cc908574e58cfe",
+        "id": "433d874182c2e1e2",
         "type": "tabs",
         "children": [
           {
-            "id": "332a783e7831e9a6",
+            "id": "08107c72dd740094",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
-              "state": {
-                "file": "expenses.md"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "expenses"
+              "title": "New tab"
             }
           }
         ]
@@ -188,8 +186,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "332a783e7831e9a6",
+  "active": "08107c72dd740094",
   "lastOpenFiles": [
+    "expenses.md",
     "tax-stuff/2026-taxes-notes.md",
     "tax-stuff",
     "home-design-studio.md",
@@ -205,7 +204,6 @@
     "ccsf/precalc/supplemental-material.md",
     "ccsf/extra-assignments.md",
     "ccsf/precalc/assessments/ch3/ch3-practice.pdf",
-    "expenses.md",
     "ccsf/precalc/catalog-info.md",
     "ccsf/pure-pre-calculus.md",
     "love-and-math/tutoring/jackson/unit-2-quiz.pdf",
