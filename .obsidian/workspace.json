@@ -4,35 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "433d874182c2e1e2",
+        "id": "841f1f8fb1a15d70",
         "type": "tabs",
         "children": [
           {
-            "id": "08107c72dd740094",
+            "id": "0c0423914deebf76",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "money-tracking.md"
+                "file": "ccsf/precalc/supplemental-material.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "money-tracking"
+              "title": "supplemental-material"
             }
           },
           {
-            "id": "28ec097bef4672ff",
+            "id": "c3b097f4083b106a",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "image",
               "state": {
-                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
+                "file": "ccsf/precalc/calendar.png"
               },
-              "icon": "lucide-file",
-              "title": "aug-dec-2026-records"
+              "icon": "lucide-image",
+              "title": "calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,9 +202,15 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "28ec097bef4672ff",
+  "active": "0c0423914deebf76",
   "lastOpenFiles": [
+    "ccsf/precalc/calendar.png",
+    "ccsf/precalc/supplemental-material.md",
+    "ccsf/extra-assignments.md",
+    "ccsf/Spring2027_Assignment_Love_Jack.pdf",
+    "ccsf/pure-pre-calculus.md",
     "money-tracking.md",
+    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/admin/admin.md",
     "ccsf/precalc/assessments/ch3/ch3-assessment.pdf",
     "ccsf/precalc/assessments/ch3/chapter_3_assessment (1).pdf",
@@ -215,19 +222,13 @@
     "tax-stuff/irs-payment-plan.pdf",
     "tax-stuff/future-tax-payment-plan.md",
     "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
-    "ccsf/precalc/calendar.png",
     "ccsf/precalc/evaluation-feedback.md",
-    "love-and-math/legal-financial/aug-dec-2026-records.md",
-    "ccsf/precalc/supplemental-material.md",
-    "ccsf/extra-assignments.md",
     "ccsf/precalc/assessments/ch3/ch3-practice.pdf",
     "ccsf/precalc/catalog-info.md",
-    "ccsf/pure-pre-calculus.md",
     "love-and-math/tutoring/jackson/unit-2-quiz.pdf",
     "love-and-math/tutoring/jackson/communication-practice.pdf",
     "love-and-math/tutoring/jackson/to-work-on.md",
     "love-and-math/tutoring/jackson/unit-2-extra-practice.pdf",
-    "love-and-math/tutoring/jackson",
     "ccsf/admin/office-hours-log.md",
     "love-and-math/tutoring/caterina/october-22/6.png",
     "love-and-math/tutoring/caterina/october-22/5.png",
