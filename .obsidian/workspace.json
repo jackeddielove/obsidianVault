@@ -18,8 +18,21 @@
               "icon": "lucide-file",
               "title": "money-tracking"
             }
+          },
+          {
+            "id": "28ec097bef4672ff",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
+              },
+              "icon": "lucide-file",
+              "title": "aug-dec-2026-records"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,8 +201,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "08107c72dd740094",
+  "active": "28ec097bef4672ff",
   "lastOpenFiles": [
+    "money-tracking.md",
+    "ccsf/admin/admin.md",
     "ccsf/precalc/assessments/ch3/ch3-assessment.pdf",
     "ccsf/precalc/assessments/ch3/chapter_3_assessment (1).pdf",
     "love-and-math/copy/policies.md",
@@ -199,7 +214,6 @@
     "home-design-studio.md",
     "tax-stuff/irs-payment-plan.pdf",
     "tax-stuff/future-tax-payment-plan.md",
-    "money-tracking.md",
     "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "ccsf/precalc/calendar.png",
     "ccsf/precalc/evaluation-feedback.md",
@@ -224,7 +238,6 @@
     "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.59 AM.png",
     "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.46 AM.png",
     "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.36 AM.png",
-    "ccsf/admin/admin.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "Excel 2026-10-09 08.40.17.univer.md",
