@@ -11,14 +11,12 @@
             "id": "0c0423914deebf76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ccsf/precalc/supplemental-material.md",
-                "mode": "source",
-                "source": false
+                "file": "love-and-math/tutoring/india/worksheet-for-india.pdf"
               },
-              "icon": "lucide-file",
-              "title": "supplemental-material"
+              "icon": "lucide-file-text",
+              "title": "worksheet-for-india"
             }
           },
           {
@@ -204,8 +202,8 @@
   },
   "active": "0c0423914deebf76",
   "lastOpenFiles": [
-    "ccsf/precalc/calendar.png",
     "ccsf/precalc/supplemental-material.md",
+    "ccsf/precalc/calendar.png",
     "ccsf/extra-assignments.md",
     "ccsf/Spring2027_Assignment_Love_Jack.pdf",
     "ccsf/pure-pre-calculus.md",
