@@ -11,6 +11,18 @@
             "id": "96c7ee70d9b47445",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "love-and-math/tutoring/caterina/resources/practice-problems/0.png"
+              },
+              "icon": "lucide-image",
+              "title": "0"
+            }
+          },
+          {
+            "id": "9751d701b592aa10",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "love-and-math/tutoring/caterina/resources/summary.md",
@@ -19,6 +31,18 @@
               },
               "icon": "lucide-file",
               "title": "summary"
+            }
+          },
+          {
+            "id": "95ba49030cc5e397",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/tutoring/caterina/resources/sample-test.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "sample-test"
             }
           }
         ]
@@ -192,9 +216,11 @@
   },
   "active": "96c7ee70d9b47445",
   "lastOpenFiles": [
-    "love-and-math/tutoring/caterina/resources/visual-math-strategies.pdf",
-    "love-and-math/tutoring/caterina/resources/sample-test.pdf",
     "love-and-math/tutoring/caterina/resources/summary.md",
+    "love-and-math/tutoring/caterina/resources/sample-test.pdf",
+    "love-and-math/tutoring/caterina/resources/practice-problems/0.png",
+    "money-tracking.md",
+    "love-and-math/tutoring/caterina/resources/visual-math-strategies.pdf",
     "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
     "love-and-math/tutoring/caterina/resources/practice-problems/9.png",
     "love-and-math/tutoring/caterina/resources/practice-problems/8.png",
@@ -205,7 +231,6 @@
     "love-and-math/tutoring/caterina/resources/practice-problems/3.png",
     "love-and-math/tutoring/caterina/resources/practice-problems/2.png",
     "love-and-math/tutoring/caterina/resources/practice-problems/15.png",
-    "love-and-math/tutoring/caterina/resources/practice-problems/14.png",
     "love-and-math/tutoring/caterina/resources/practice-problems",
     "love-and-math/tutoring/caterina/resources/results/date_3.heic",
     "love-and-math/tutoring/caterina/resources/results/date_2.heic",
@@ -213,11 +238,9 @@
     "love-and-math/tutoring/caterina/resources/results/9-30_2.HEIC",
     "love-and-math/tutoring/caterina/resources/results/9-30_1.HEIC",
     "love-and-math/tutoring/caterina/resources/results/results-2-3.heic",
-    "love-and-math/tutoring/caterina/resources/results/results-2-2.heic",
     "ccsf/precalc/supplemental-material.md",
     "ccsf/extra-assignments.md",
     "ccsf/pure-pre-calculus.md",
-    "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/admin/admin.md",
     "love-and-math/copy/policies.md",
