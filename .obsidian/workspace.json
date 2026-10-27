@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8c17fcccd871322a",
+        "id": "4a7c9a5951de2b15",
         "type": "tabs",
         "children": [
           {
-            "id": "18160497db30d0c6",
+            "id": "ee3190ee640f7e2f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/zeke/geometry/hw1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "hw1"
-            }
-          },
-          {
-            "id": "9cffed6633a989ac",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/zeke/geometry/hw2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "hw2"
-            }
-          },
-          {
-            "id": "892cba0e336f2690",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/zeke/geometry/hw3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "hw3"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -212,10 +186,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "18160497db30d0c6",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
-    "love-and-math/tutoring/zeke/geometry/hw3.pdf",
     "love-and-math/tutoring/zeke/geometry/hw1.pdf",
+    "love-and-math/tutoring/zeke/geometry/hw3.pdf",
     "love-and-math/tutoring/zeke/geometry/hw2.pdf",
     "money-tracking.md",
     "love-and-math/mailing-list.md",
