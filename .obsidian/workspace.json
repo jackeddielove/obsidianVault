@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "841f1f8fb1a15d70",
+        "id": "0cb79b9ae06b21eb",
         "type": "tabs",
         "children": [
           {
-            "id": "0c0423914deebf76",
+            "id": "597185d7f9238425",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "love-and-math/tutoring/india/worksheet-for-india.pdf"
+                "file": "love-and-math/tutoring/caterina/resources/sample-test.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "worksheet-for-india"
-            }
-          },
-          {
-            "id": "c3b097f4083b106a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "ccsf/precalc/calendar.png"
-              },
-              "icon": "lucide-image",
-              "title": "calendar"
+              "title": "sample-test"
             }
           }
         ]
@@ -200,10 +188,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "0c0423914deebf76",
+  "active": "597185d7f9238425",
   "lastOpenFiles": [
-    "ccsf/precalc/supplemental-material.md",
+    "love-and-math/tutoring/caterina/resources/results-3.pdf",
+    "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
     "ccsf/precalc/calendar.png",
+    "love-and-math/tutoring/india/worksheet-for-india.pdf",
+    "ccsf/precalc/supplemental-material.md",
     "ccsf/extra-assignments.md",
     "ccsf/Spring2027_Assignment_Love_Jack.pdf",
     "ccsf/pure-pre-calculus.md",
@@ -224,9 +215,7 @@
     "ccsf/precalc/assessments/ch3/ch3-practice.pdf",
     "ccsf/precalc/catalog-info.md",
     "love-and-math/tutoring/jackson/unit-2-quiz.pdf",
-    "love-and-math/tutoring/jackson/communication-practice.pdf",
     "love-and-math/tutoring/jackson/to-work-on.md",
-    "love-and-math/tutoring/jackson/unit-2-extra-practice.pdf",
     "ccsf/admin/office-hours-log.md",
     "love-and-math/tutoring/caterina/october-22/6.png",
     "love-and-math/tutoring/caterina/october-22/5.png",
