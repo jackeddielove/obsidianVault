@@ -18,3 +18,5 @@ wendy pigeonsailor@gmail.com
 zeke sikelianos@gmail.com
 kara palanuk@berkeley.edu
 benoit benoit.dherin@gmail.com
+Danielle Kellar <dkellar13@gmail.com>
+	emailed and responded to; no reply
