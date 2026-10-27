@@ -8,55 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8787c7d648b389a6",
+            "id": "96c7ee70d9b47445",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf"
+                "file": "love-and-math/tutoring/caterina/resources/summary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "geometry-workbook"
-            }
-          },
-          {
-            "id": "4005f6c65f8ae1c0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/caterina/resources/10-15-results.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "10-15-results"
-            }
-          },
-          {
-            "id": "36ca02e8a29f5548",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/caterina/resources/sample-test.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "sample-test"
-            }
-          },
-          {
-            "id": "958b93b4d880388c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/caterina/resources/visual-math-strategies.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "visual-math-strategies"
+              "icon": "lucide-file",
+              "title": "summary"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,45 +190,45 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "96c7ee70d9b47445",
   "lastOpenFiles": [
     "love-and-math/tutoring/caterina/resources/visual-math-strategies.pdf",
     "love-and-math/tutoring/caterina/resources/sample-test.pdf",
-    "love-and-math/tutoring/caterina/resources/10-15-results.pdf",
-    "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
     "love-and-math/tutoring/caterina/resources/summary.md",
-    "ccsf/precalc/calendar.png",
-    "love-and-math/tutoring/india/worksheet-for-india.pdf",
+    "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
+    "love-and-math/tutoring/caterina/resources/practice-problems/9.png",
+    "love-and-math/tutoring/caterina/resources/practice-problems/8.png",
+    "love-and-math/tutoring/caterina/resources/practice-problems/7.png",
+    "love-and-math/tutoring/caterina/resources/practice-problems/6.png",
+    "love-and-math/tutoring/caterina/resources/practice-problems/5.png",
+    "love-and-math/tutoring/caterina/resources/practice-problems/4.png",
+    "love-and-math/tutoring/caterina/resources/practice-problems/3.png",
+    "love-and-math/tutoring/caterina/resources/practice-problems/2.png",
+    "love-and-math/tutoring/caterina/resources/practice-problems/15.png",
+    "love-and-math/tutoring/caterina/resources/practice-problems/14.png",
+    "love-and-math/tutoring/caterina/resources/practice-problems",
+    "love-and-math/tutoring/caterina/resources/results/date_3.heic",
+    "love-and-math/tutoring/caterina/resources/results/date_2.heic",
+    "love-and-math/tutoring/caterina/resources/results/date_1.HEIC",
+    "love-and-math/tutoring/caterina/resources/results/9-30_2.HEIC",
+    "love-and-math/tutoring/caterina/resources/results/9-30_1.HEIC",
+    "love-and-math/tutoring/caterina/resources/results/results-2-3.heic",
+    "love-and-math/tutoring/caterina/resources/results/results-2-2.heic",
     "ccsf/precalc/supplemental-material.md",
     "ccsf/extra-assignments.md",
-    "ccsf/Spring2027_Assignment_Love_Jack.pdf",
     "ccsf/pure-pre-calculus.md",
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "ccsf/admin/admin.md",
-    "ccsf/precalc/assessments/ch3/ch3-assessment.pdf",
-    "ccsf/precalc/assessments/ch3/chapter_3_assessment (1).pdf",
     "love-and-math/copy/policies.md",
     "expenses.md",
     "tax-stuff/2026-taxes-notes.md",
-    "tax-stuff",
     "home-design-studio.md",
-    "tax-stuff/irs-payment-plan.pdf",
     "tax-stuff/future-tax-payment-plan.md",
-    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "ccsf/precalc/evaluation-feedback.md",
     "ccsf/precalc/catalog-info.md",
     "love-and-math/tutoring/jackson/to-work-on.md",
     "ccsf/admin/office-hours-log.md",
-    "love-and-math/tutoring/caterina/october-22/6.png",
-    "love-and-math/tutoring/caterina/october-22/5.png",
-    "love-and-math/tutoring/caterina/october-22/4.png",
-    "love-and-math/tutoring/caterina/october-22/3.png",
-    "love-and-math/tutoring/caterina/october-22/2.png",
-    "love-and-math/tutoring/caterina/october-22/1.png",
-    "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.59 AM.png",
-    "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.46 AM.png",
-    "love-and-math/tutoring/caterina/october-22/Screenshot 2026-10-22 at 11.09.36 AM.png",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "Excel 2026-10-09 08.40.17.univer.md",
