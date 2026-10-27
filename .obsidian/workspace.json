@@ -11,14 +11,36 @@
             "id": "18160497db30d0c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "love-and-math/mailing-list.md",
-                "mode": "source",
-                "source": false
+                "file": "love-and-math/tutoring/zeke/geometry/hw1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "mailing-list"
+              "icon": "lucide-file-text",
+              "title": "hw1"
+            }
+          },
+          {
+            "id": "9cffed6633a989ac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/tutoring/zeke/geometry/hw2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "hw2"
+            }
+          },
+          {
+            "id": "892cba0e336f2690",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/tutoring/zeke/geometry/hw3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "hw3"
             }
           }
         ]
@@ -192,6 +214,11 @@
   },
   "active": "18160497db30d0c6",
   "lastOpenFiles": [
+    "love-and-math/tutoring/zeke/geometry/hw3.pdf",
+    "love-and-math/tutoring/zeke/geometry/hw1.pdf",
+    "love-and-math/tutoring/zeke/geometry/hw2.pdf",
+    "money-tracking.md",
+    "love-and-math/mailing-list.md",
     "love-and-math/tutoring/caterina/resources/sample-test.pdf",
     "love-and-math/tutoring/caterina/resources/summary.md",
     "love-and-math/tutoring/caterina/october-27/6.png",
@@ -206,14 +233,11 @@
     "love-and-math/tutoring/caterina/october-27/Screenshot 2026-10-27 at 12.09.51 PM.png",
     "love-and-math/tutoring/caterina/october-27",
     "love-and-math/tutoring/caterina/New Folder With Items",
-    "money-tracking.md",
     "love-and-math/tutoring/caterina/resources/visual-math-strategies.pdf",
     "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
     "love-and-math/tutoring/caterina/resources/practice-problems",
     "love-and-math/tutoring/caterina/resources/results/date_3.heic",
     "love-and-math/tutoring/caterina/resources/results/date_2.heic",
-    "love-and-math/tutoring/caterina/resources/results/date_1.HEIC",
-    "love-and-math/tutoring/caterina/resources/results/9-30_2.HEIC",
     "ccsf/precalc/supplemental-material.md",
     "ccsf/extra-assignments.md",
     "ccsf/pure-pre-calculus.md",
@@ -235,7 +259,6 @@
     "ccsf/precalc/groups.md",
     "ccsf/precalc/calendar_sep18.md",
     "love-and-math/copy/wyzant.md",
-    "love-and-math/tutoring/student-resources/ronan-syllabus.md",
-    "love-and-math/tutoring/students.md"
+    "love-and-math/tutoring/student-resources/ronan-syllabus.md"
   ]
 }
