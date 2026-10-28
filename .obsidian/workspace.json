@@ -11,10 +11,14 @@
             "id": "ee3190ee640f7e2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ccsf/precalc/catalog-info.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "catalog-info"
             }
           }
         ]
@@ -186,7 +190,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "ee3190ee640f7e2f",
   "lastOpenFiles": [
     "love-and-math/tutoring/zeke/geometry/hw1.pdf",
     "love-and-math/tutoring/zeke/geometry/hw3.pdf",
