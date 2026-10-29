@@ -11,12 +11,14 @@
             "id": "ee3190ee640f7e2f",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "money-tracking.md"
+                "file": "love-and-math/tutoring/caterina/resources/summary.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "money-tracking"
+              "title": "summary"
             }
           }
         ]
@@ -190,11 +192,12 @@
   },
   "active": "ee3190ee640f7e2f",
   "lastOpenFiles": [
+    "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
+    "money-tracking.md",
     "ccsf/precalc/catalog-info.md",
     "love-and-math/tutoring/zeke/geometry/hw1.pdf",
     "love-and-math/tutoring/zeke/geometry/hw3.pdf",
     "love-and-math/tutoring/zeke/geometry/hw2.pdf",
-    "money-tracking.md",
     "love-and-math/mailing-list.md",
     "love-and-math/tutoring/caterina/resources/sample-test.pdf",
     "love-and-math/tutoring/caterina/resources/summary.md",
@@ -211,7 +214,6 @@
     "love-and-math/tutoring/caterina/october-27",
     "love-and-math/tutoring/caterina/New Folder With Items",
     "love-and-math/tutoring/caterina/resources/visual-math-strategies.pdf",
-    "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
     "love-and-math/tutoring/caterina/resources/practice-problems",
     "love-and-math/tutoring/caterina/resources/results/date_3.heic",
     "ccsf/precalc/supplemental-material.md",
