@@ -53,3 +53,11 @@ graphs: retrieve information from bar graph/line graph, compute differences
 inequalities: use multiplication and division, apply correct inequality symbol
 word problems: calculate total cost including % sales tax
 decimals: division
+
+# october 29 plan
+
+graphs on paper (make figma ones)
+Jaime reads 3 books every month for 5 months. How many books does he read?
+multiply and add fractions, reduce fractions, convert percentage to fraction
+division with decimals
+wyeth bought a computer for 80% of the retail price. If he paid $750, how much was the retail price?
