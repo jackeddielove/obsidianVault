@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4a7c9a5951de2b15",
+        "id": "c5aaacae40011343",
         "type": "tabs",
         "children": [
           {
-            "id": "ee3190ee640f7e2f",
+            "id": "84329ce07a3e3494",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "pdf",
               "state": {
-                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
+                "file": "love-and-math/tutoring/zeke/linear-algebra/text.pdf"
               },
-              "icon": "lucide-file",
-              "title": "aug-dec-2026-records"
-            }
-          },
-          {
-            "id": "517e48b85420e7b0",
-            "type": "leaf",
-            "state": {
-              "type": "excel-pro-view",
-              "state": {
-                "file": "money-tracking.md"
-              },
-              "icon": "lucide-file",
-              "title": "money-tracking"
+              "icon": "lucide-file-text",
+              "title": "text"
             }
           }
         ]
@@ -200,7 +188,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "ee3190ee640f7e2f",
+  "active": "84329ce07a3e3494",
   "lastOpenFiles": [
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
