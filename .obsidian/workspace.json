@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "825255d30abf99fe",
+        "id": "b7dc135a39a07784",
         "type": "tabs",
         "children": [
           {
-            "id": "74e2b4ba53fb0c0a",
+            "id": "aaf30d5326cafc03",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/zeke/linear-algebra/text.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "text"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,14 +186,18 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "aaf30d5326cafc03",
   "lastOpenFiles": [
+    "ccsf/precalc/assessments/ch3/sakaa.pdf",
+    "ccsf/precalc/assessments/ch3/Chapter 3 Assessment.pdf",
+    "ccsf/precalc/assessments/ch3/submissions.pdf",
+    "ccsf/precalc/assessments/ch3/SC-BAT756-M26102522170.pdf",
+    "love-and-math/legal-financial/aug-dec-2026-records.md",
+    "money-tracking.md",
+    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "love-and-math/tutoring/zeke/october-30/extra-notes.pdf",
     "love-and-math/tutoring/zeke/october-20/october-30/Unconfirmed 975630.crdownload",
     "love-and-math/tutoring/zeke/october-30",
-    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
-    "money-tracking.md",
-    "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/tutoring/caterina/resources/summary.md",
     "love-and-math/tutoring/caterina/october-29/8.png",
     "love-and-math/tutoring/caterina/october-29/7.png",
@@ -211,11 +213,7 @@
     "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
     "ccsf/precalc/catalog-info.md",
     "love-and-math/tutoring/zeke/geometry/hw1.pdf",
-    "love-and-math/tutoring/zeke/geometry/hw3.pdf",
-    "love-and-math/tutoring/zeke/geometry/hw2.pdf",
     "love-and-math/mailing-list.md",
-    "love-and-math/tutoring/caterina/resources/sample-test.pdf",
-    "love-and-math/tutoring/caterina/october-27",
     "ccsf/precalc/supplemental-material.md",
     "ccsf/extra-assignments.md",
     "ccsf/pure-pre-calculus.md",
