@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c5aaacae40011343",
+        "id": "825255d30abf99fe",
         "type": "tabs",
         "children": [
           {
-            "id": "84329ce07a3e3494",
+            "id": "74e2b4ba53fb0c0a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/zeke/linear-algebra/text.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "text"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,8 +186,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "84329ce07a3e3494",
+  "active": "74e2b4ba53fb0c0a",
   "lastOpenFiles": [
+    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "money-tracking.md",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/tutoring/caterina/resources/summary.md",
