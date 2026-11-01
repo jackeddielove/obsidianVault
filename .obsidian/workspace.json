@@ -11,12 +11,14 @@
             "id": "171dff410e052817",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "love-and-math/tutoring/zeke/linear-algebra/text.pdf"
+                "file": "ccsf/extra-assignments.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "text"
+              "icon": "lucide-file",
+              "title": "extra-assignments"
             }
           }
         ]
@@ -190,6 +192,10 @@
   },
   "active": "171dff410e052817",
   "lastOpenFiles": [
+    "ccsf/Spring2027_Assignment_Love_Jack.pdf",
+    "ccsf/pure-pre-calculus.md",
+    "ccsf/precalc/supplemental-material.md",
+    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "money-tracking.md",
     "ccsf/precalc/assessments/ch1/ch1-solutions.pdf",
     "ccsf/precalc/assessments/ch3/ch3-solutions.pdf",
@@ -200,7 +206,6 @@
     "ccsf/precalc/assessments/ch3/submissions.pdf",
     "ccsf/precalc/assessments/ch3/SC-BAT756-M26102522170.pdf",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
-    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "love-and-math/tutoring/zeke/october-30/extra-notes.pdf",
     "love-and-math/tutoring/caterina/resources/summary.md",
     "love-and-math/tutoring/caterina/october-29/8.png",
@@ -215,9 +220,7 @@
     "love-and-math/tutoring/caterina/october-29/Screenshot 2026-10-29 at 11.06.04 AM.png",
     "ccsf/precalc/catalog-info.md",
     "love-and-math/mailing-list.md",
-    "ccsf/precalc/supplemental-material.md",
     "ccsf/extra-assignments.md",
-    "ccsf/pure-pre-calculus.md",
     "ccsf/admin/admin.md",
     "love-and-math/copy/policies.md",
     "expenses.md",
