@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b7dc135a39a07784",
+        "id": "6b7adf0c1f4c146e",
         "type": "tabs",
         "children": [
           {
-            "id": "aaf30d5326cafc03",
+            "id": "171dff410e052817",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "pdf",
               "state": {
-                "file": "money-tracking.md"
+                "file": "love-and-math/tutoring/zeke/linear-algebra/text.pdf"
               },
-              "icon": "lucide-file",
-              "title": "money-tracking"
+              "icon": "lucide-file-text",
+              "title": "text"
             }
           }
         ]
@@ -188,8 +188,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "aaf30d5326cafc03",
+  "active": "171dff410e052817",
   "lastOpenFiles": [
+    "money-tracking.md",
     "ccsf/precalc/assessments/ch1/ch1-solutions.pdf",
     "ccsf/precalc/assessments/ch3/ch3-solutions.pdf",
     "ccsf/precalc/assessments/ch3/solutions.pdf",
@@ -199,10 +200,8 @@
     "ccsf/precalc/assessments/ch3/submissions.pdf",
     "ccsf/precalc/assessments/ch3/SC-BAT756-M26102522170.pdf",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
-    "money-tracking.md",
     "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "love-and-math/tutoring/zeke/october-30/extra-notes.pdf",
-    "love-and-math/tutoring/zeke/october-20/october-30/Unconfirmed 975630.crdownload",
     "love-and-math/tutoring/caterina/resources/summary.md",
     "love-and-math/tutoring/caterina/october-29/8.png",
     "love-and-math/tutoring/caterina/october-29/7.png",
