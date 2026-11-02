@@ -11,14 +11,12 @@
             "id": "171dff410e052817",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-pro-view",
               "state": {
-                "file": "ccsf/extra-assignments.md",
-                "mode": "source",
-                "source": false
+                "file": "money-tracking.md"
               },
               "icon": "lucide-file",
-              "title": "extra-assignments"
+              "title": "money-tracking"
             }
           }
         ]
@@ -192,6 +190,7 @@
   },
   "active": "171dff410e052817",
   "lastOpenFiles": [
+    "ccsf/extra-assignments.md",
     "ccsf/Spring2027_Assignment_Love_Jack.pdf",
     "ccsf/pure-pre-calculus.md",
     "ccsf/precalc/supplemental-material.md",
@@ -206,7 +205,6 @@
     "ccsf/precalc/assessments/ch3/submissions.pdf",
     "ccsf/precalc/assessments/ch3/SC-BAT756-M26102522170.pdf",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
-    "love-and-math/tutoring/zeke/october-30/extra-notes.pdf",
     "love-and-math/tutoring/caterina/resources/summary.md",
     "love-and-math/tutoring/caterina/october-29/8.png",
     "love-and-math/tutoring/caterina/october-29/7.png",
@@ -220,7 +218,6 @@
     "love-and-math/tutoring/caterina/october-29/Screenshot 2026-10-29 at 11.06.04 AM.png",
     "ccsf/precalc/catalog-info.md",
     "love-and-math/mailing-list.md",
-    "ccsf/extra-assignments.md",
     "ccsf/admin/admin.md",
     "love-and-math/copy/policies.md",
     "expenses.md",
