@@ -23,14 +23,12 @@
             "id": "f247fc4f49e5a46c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "doenet-instructions.md",
-                "mode": "source",
-                "source": false
+                "file": "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf"
               },
-              "icon": "lucide-file",
-              "title": "doenet-instructions"
+              "icon": "lucide-file-text",
+              "title": "hw5-hw6"
             }
           }
         ],
@@ -203,10 +201,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "f247fc4f49e5a46c",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
-    "money-tracking.md",
     "doenet-instructions.md",
+    "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf",
+    "money-tracking.md",
     "ccsf/extra-assignments.md",
     "ccsf/Spring2027_Assignment_Love_Jack.pdf",
     "ccsf/pure-pre-calculus.md",
@@ -219,7 +218,6 @@
     "ccsf/precalc/assessments/ch3/Chapter_3_Assessment_scores.csv",
     "ccsf/precalc/assessments/ch3/sakaa.pdf",
     "ccsf/precalc/assessments/ch3/submissions.pdf",
-    "ccsf/precalc/assessments/ch3/SC-BAT756-M26102522170.pdf",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/tutoring/caterina/resources/summary.md",
     "love-and-math/tutoring/caterina/october-29/8.png",
@@ -249,7 +247,6 @@
     "love-and-math/website-about-text.md",
     "ccsf/precalc/groups.md",
     "ccsf/precalc/calendar_sep18.md",
-    "love-and-math/copy/wyzant.md",
-    "love-and-math/tutoring/student-resources/ronan-syllabus.md"
+    "love-and-math/copy/wyzant.md"
   ]
 }
