@@ -20,15 +20,15 @@
             }
           },
           {
-            "id": "f247fc4f49e5a46c",
+            "id": "44dd06997e9b8c84",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excel-pro-view",
               "state": {
-                "file": "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf"
+                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
               },
-              "icon": "lucide-file-text",
-              "title": "hw5-hw6"
+              "icon": "lucide-file",
+              "title": "aug-dec-2026-records"
             }
           }
         ],
@@ -201,11 +201,12 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "44dd06997e9b8c84",
   "lastOpenFiles": [
-    "doenet-instructions.md",
-    "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf",
     "money-tracking.md",
+    "ccsf/precalc/calendar.png",
+    "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf",
+    "doenet-instructions.md",
     "ccsf/extra-assignments.md",
     "ccsf/Spring2027_Assignment_Love_Jack.pdf",
     "ccsf/pure-pre-calculus.md",
@@ -229,7 +230,6 @@
     "love-and-math/tutoring/caterina/october-29/2.png",
     "love-and-math/tutoring/caterina/october-29/1.png",
     "love-and-math/tutoring/caterina/october-29/Screenshot 2026-10-29 at 11.06.36 AM.png",
-    "love-and-math/tutoring/caterina/october-29/Screenshot 2026-10-29 at 11.06.04 AM.png",
     "ccsf/precalc/catalog-info.md",
     "love-and-math/mailing-list.md",
     "ccsf/admin/admin.md",
