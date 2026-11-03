@@ -11,10 +11,12 @@
             "id": "7fcf78f56104535b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "hw5-hw6"
             }
           }
         ]
