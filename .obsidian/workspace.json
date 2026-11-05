@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e09ca429208bdf4",
+        "id": "f86486a2bfcf14f8",
         "type": "tabs",
         "children": [
           {
-            "id": "707e93cd4fa3189c",
+            "id": "ff47c667dd953425",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.0"
+                "file": "ccsf/precalc/supplemental-material.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.0"
+              "icon": "lucide-file",
+              "title": "supplemental-material"
             }
           }
         ]
@@ -188,7 +190,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "707e93cd4fa3189c",
+  "active": "ff47c667dd953425",
   "lastOpenFiles": [
     "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf",
     "love-and-math/tutoring/caterina/resources/visual-math-strategies.pdf",
