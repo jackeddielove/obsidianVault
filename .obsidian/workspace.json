@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f86486a2bfcf14f8",
+        "id": "40ce87667cdc2c23",
         "type": "tabs",
         "children": [
           {
-            "id": "ff47c667dd953425",
+            "id": "c815dd964f704d47",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "pdf",
               "state": {
-                "file": "love-and-math/legal-financial/aug-dec-2026-records.md"
+                "file": "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf"
               },
-              "icon": "lucide-file",
-              "title": "aug-dec-2026-records"
+              "icon": "lucide-file-text",
+              "title": "hw5-hw6"
             }
           },
           {
-            "id": "19d8e737ea836e0f",
+            "id": "9f061527d079373f",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "pdf",
               "state": {
-                "file": "money-tracking.md"
+                "file": "love-and-math/tutoring/zeke/linear-algebra/text.pdf"
               },
-              "icon": "lucide-file",
-              "title": "money-tracking"
+              "icon": "lucide-file-text",
+              "title": "text"
             }
           }
         ],
@@ -201,18 +201,18 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "19d8e737ea836e0f",
+  "active": "9f061527d079373f",
   "lastOpenFiles": [
+    "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf",
+    "money-tracking.md",
     "ccsf/precalc/assessments/ch5/ch5_practice.pdf",
     "ccsf/precalc/assessments/ch5/ch5_assessment.pdf",
     "ccsf/precalc/assessments/ch5_assessment.pdf",
     "ccsf/precalc/assessments/ch5",
     "ccsf/precalc/assessments/untitled folder",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
-    "money-tracking.md",
     "ccsf/precalc/calendar.png",
     "ccsf/precalc/supplemental-material.md",
-    "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf",
     "love-and-math/tutoring/caterina/resources/visual-math-strategies.pdf",
     "love-and-math/tutoring/caterina/resources/practice-problems/12.png",
     "love-and-math/tutoring/caterina/november-3/6.png",
@@ -226,7 +226,6 @@
     "love-and-math/tutoring/caterina/november-3",
     "love-and-math/tutoring/caterina/resources/sample-test.pdf",
     "love-and-math/tutoring/caterina/resources/geometry-workbook.pdf",
-    "love-and-math/tutoring/caterina/resources/results/10-15-results.pdf",
     "doenet-instructions.md",
     "ccsf/extra-assignments.md",
     "ccsf/pure-pre-calculus.md",
