@@ -18,21 +18,8 @@
               "icon": "lucide-file-text",
               "title": "hw5-hw6"
             }
-          },
-          {
-            "id": "9f061527d079373f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/zeke/linear-algebra/text.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "text"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +188,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "9f061527d079373f",
+  "active": "c815dd964f704d47",
   "lastOpenFiles": [
+    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf",
     "money-tracking.md",
     "ccsf/precalc/assessments/ch5/ch5_practice.pdf",
