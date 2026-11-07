@@ -11,10 +11,12 @@
             "id": "bb1ad54164481c70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excel-pro-view",
+              "state": {
+                "file": "money-tracking.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "money-tracking"
             }
           }
         ]
