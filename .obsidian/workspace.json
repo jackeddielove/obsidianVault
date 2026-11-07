@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "40ce87667cdc2c23",
+        "id": "eb9117b171aef3fb",
         "type": "tabs",
         "children": [
           {
-            "id": "c815dd964f704d47",
+            "id": "bb1ad54164481c70",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "hw5-hw6"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,10 +186,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "c815dd964f704d47",
+  "active": "bb1ad54164481c70",
   "lastOpenFiles": [
-    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf",
+    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "money-tracking.md",
     "ccsf/precalc/assessments/ch5/ch5_practice.pdf",
     "ccsf/precalc/assessments/ch5/ch5_assessment.pdf",
