@@ -37,12 +37,36 @@
             "id": "bdeaf5d010a5929e",
             "type": "leaf",
             "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/biz-expenses.md"
+              },
+              "icon": "lucide-file",
+              "title": "biz-expenses"
+            }
+          },
+          {
+            "id": "30510575806d3f50",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "love-and-math/tutoring/zeke/linear-algebra/text.pdf"
+                "file": "love-and-math/legal-financial/business-receipts/studio-display.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "text"
+              "title": "studio-display"
+            }
+          },
+          {
+            "id": "a9eeaf1fd705bad3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "love-and-math/legal-financial/business-receipts/keyboard.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "keyboard"
             }
           },
           {
@@ -229,14 +253,19 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "bdeaf5d010a5929e",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
+    "love-and-math/legal-financial/business-receipts/Untitled",
+    "love-and-math/legal-financial/business-receipts/studio-display.pdf",
+    "love-and-math/legal-financial/business-receipts/biz-expenses.md",
+    "love-and-math/legal-financial/business-receipts/keyboard.pdf",
+    "love-and-math/legal-financial/mileage.md",
+    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "ccsf/precalc/calendar.png",
     "ccsf/precalc/supplemental-material.md",
     "ccsf/extra-assignments.md",
     "money-tracking.md",
     "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf",
-    "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "ccsf/precalc/assessments/ch5/ch5_practice.pdf",
     "ccsf/precalc/assessments/ch5/ch5_assessment.pdf",
     "ccsf/precalc/assessments/ch5_assessment.pdf",
@@ -253,8 +282,6 @@
     "love-and-math/tutoring/caterina/november-3/1.png",
     "love-and-math/tutoring/caterina/november-3/Screenshot 2026-11-03 at 11.52.56 AM.png",
     "love-and-math/tutoring/caterina/november-3/Screenshot 2026-11-03 at 11.52.47 AM.png",
-    "love-and-math/tutoring/caterina/november-3",
-    "love-and-math/tutoring/caterina/resources/sample-test.pdf",
     "doenet-instructions.md",
     "ccsf/pure-pre-calculus.md",
     "love-and-math/tutoring/caterina/resources/summary.md",
@@ -269,12 +296,10 @@
     "ccsf/precalc/evaluation-feedback.md",
     "love-and-math/tutoring/jackson/to-work-on.md",
     "ccsf/admin/office-hours-log.md",
-    "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
     "Excel 2026-10-09 08.40.17.univer.md",
     "love-and-math/website-about-text.md",
     "ccsf/precalc/groups.md",
-    "ccsf/precalc/calendar_sep18.md",
-    "love-and-math/copy/wyzant.md"
+    "ccsf/precalc/calendar_sep18.md"
   ]
 }
