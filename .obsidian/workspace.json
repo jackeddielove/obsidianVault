@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ccsf/precalc/supplemental-material.md",
+                "file": "old-stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "supplemental-material"
+              "title": "old-stuff"
             }
           }
         ]
@@ -192,6 +192,7 @@
   },
   "active": "66691c152235dd8f",
   "lastOpenFiles": [
+    "ccsf/precalc/supplemental-material.md",
     "home-design-studio.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "old-stuff.md",
@@ -200,7 +201,6 @@
     "love-and-math/legal-financial/business-receipts/studio-display.pdf",
     "love-and-math/legal-financial/business-receipts/mac-studio/klarna-lease-agreement.pdf",
     "ccsf/precalc/calendar.png",
-    "ccsf/precalc/supplemental-material.md",
     "love-and-math/legal-financial/business-receipts/mac-studio",
     "love-and-math/legal-financial/mileage.md",
     "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
