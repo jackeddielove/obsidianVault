@@ -11,10 +11,12 @@
             "id": "fccd4a4affd87f98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "ccsf/precalc/assessments/ch1/images/ch1-practice-1.png"
+              },
+              "icon": "lucide-image",
+              "title": "ch1-practice-1"
             }
           }
         ]
@@ -186,8 +188,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "fccd4a4affd87f98",
+  "active": "6934fa0aaf22a29e",
   "lastOpenFiles": [
+    "ccsf/precalc/assessments/ch5/images/ch5-practice-1.png",
+    "ccsf/precalc/assessments/ch5/images",
     "love-and-math/legal-financial/business-receipts/mac-studio-payment-info.md",
     "money-tracking.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
@@ -208,7 +212,6 @@
     "ccsf/precalc/assessments/ch5/ch5_practice.pdf",
     "ccsf/precalc/assessments/ch5/ch5_assessment.pdf",
     "ccsf/precalc/assessments/ch5_assessment.pdf",
-    "ccsf/precalc/assessments/ch5",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/tutoring/caterina/resources/practice-problems/12.png",
     "love-and-math/tutoring/caterina/november-3/6.png",
@@ -232,7 +235,6 @@
     "love-and-math/tutoring/jackson/to-work-on.md",
     "ccsf/admin/office-hours-log.md",
     "love-and-math/legal-financial/jan-jul-2026-records.md",
-    "Excel 2026-10-09 08.40.17.univer.md",
-    "love-and-math/website-about-text.md"
+    "Excel 2026-10-09 08.40.17.univer.md"
   ]
 }
