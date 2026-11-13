@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a449f45dc74d2552",
+        "id": "1b770759d3379b64",
         "type": "tabs",
         "children": [
           {
-            "id": "fccd4a4affd87f98",
+            "id": "6003967a44442b9c",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "ccsf/precalc/assessments/ch1/images/ch1-practice-1.png"
-              },
-              "icon": "lucide-image",
-              "title": "ch1-practice-1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,8 +186,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6934fa0aaf22a29e",
+  "active": "6003967a44442b9c",
   "lastOpenFiles": [
+    "ccsf/precalc/assessments/ch5/ch5_practice.pdf",
+    "ccsf/precalc/assessments/ch5/ch5_assessment.pdf",
+    "ccsf/precalc/assessments/ch1/images/ch1-practice-1.png",
+    "ccsf/precalc/assessments/ch5/images/ch5-practice-2.png",
+    "ccsf/precalc/assessments/ch5/images/Screenshot 2026-11-12 at 2.27.06 PM.png",
     "ccsf/precalc/assessments/ch5/images/ch5-practice-1.png",
     "ccsf/precalc/assessments/ch5/images",
     "love-and-math/legal-financial/business-receipts/mac-studio-payment-info.md",
@@ -209,8 +212,6 @@
     "love-and-math/legal-financial/mileage.md",
     "love-and-math/tutoring/zeke/linear-algebra/text.pdf",
     "love-and-math/tutoring/zeke/geometry/hw5-hw6.pdf",
-    "ccsf/precalc/assessments/ch5/ch5_practice.pdf",
-    "ccsf/precalc/assessments/ch5/ch5_assessment.pdf",
     "ccsf/precalc/assessments/ch5_assessment.pdf",
     "love-and-math/legal-financial/aug-dec-2026-records.md",
     "love-and-math/tutoring/caterina/resources/practice-problems/12.png",
@@ -218,10 +219,6 @@
     "love-and-math/tutoring/caterina/november-3/5.png",
     "love-and-math/tutoring/caterina/november-3/4.png",
     "love-and-math/tutoring/caterina/november-3/3.png",
-    "love-and-math/tutoring/caterina/november-3/2.png",
-    "love-and-math/tutoring/caterina/november-3/1.png",
-    "love-and-math/tutoring/caterina/november-3/Screenshot 2026-11-03 at 11.52.56 AM.png",
-    "love-and-math/tutoring/caterina/november-3/Screenshot 2026-11-03 at 11.52.47 AM.png",
     "doenet-instructions.md",
     "ccsf/pure-pre-calculus.md",
     "love-and-math/tutoring/caterina/resources/summary.md",
