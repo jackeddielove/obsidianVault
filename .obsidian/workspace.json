@@ -11,13 +11,28 @@
             "id": "6003967a44442b9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excel-pro-view",
+              "state": {
+                "file": "money-tracking.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "money-tracking"
+            }
+          },
+          {
+            "id": "61dd2b2f8daca981",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +201,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6003967a44442b9c",
+  "active": "61dd2b2f8daca981",
   "lastOpenFiles": [
     "ccsf/precalc/assessments/ch5/ch5_practice.pdf",
     "ccsf/precalc/assessments/ch5/ch5_assessment.pdf",
