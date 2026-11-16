@@ -11,28 +11,17 @@
             "id": "6003967a44442b9c",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "money-tracking.md"
+                "file": "ccsf/admin/admin.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "money-tracking"
-            }
-          },
-          {
-            "id": "61dd2b2f8daca981",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.1"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.1"
+              "title": "admin"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +190,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "61dd2b2f8daca981",
+  "active": "6003967a44442b9c",
   "lastOpenFiles": [
+    "money-tracking.md",
     "ccsf/precalc/assessments/ch5/ch5_practice.pdf",
     "ccsf/precalc/assessments/ch5/ch5_assessment.pdf",
     "ccsf/precalc/assessments/ch1/images/ch1-practice-1.png",
@@ -211,7 +201,6 @@
     "ccsf/precalc/assessments/ch5/images/ch5-practice-1.png",
     "ccsf/precalc/assessments/ch5/images",
     "love-and-math/legal-financial/business-receipts/mac-studio-payment-info.md",
-    "money-tracking.md",
     "love-and-math/legal-financial/business-receipts/biz-expenses.md",
     "ideas.md",
     "home-design-studio.md",
